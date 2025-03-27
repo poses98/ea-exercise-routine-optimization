@@ -1,18 +1,13 @@
 # ea-exercise-routine-optimization
 
-## Before executing the notebook make sure you have activated the virutal environment
+## Before executing the notebook, make sure to install the required dependencies
 
-Use the scripts located in `ea-env/Scripts/(A|a)ctivate.(bat|ps1)` depending on your operating system.
+Use the `requirements.txt` file to install all necessary packages.
 
-### On Windows:
-
-```bash
-./ea-env/Scripts/activate.bat
-./ea-env/Scripts/Activate.ps1
-```
-
-### On Linux or MacOS:
+### Install dependencies:
 
 ```bash
-source ./ea-env/bin/activate
+pip install -r requirements.txt
 ```
+
+Ensure you have the correct Python environment activated before running the command.
