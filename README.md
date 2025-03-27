@@ -6,7 +6,7 @@ Use the scripts located in `ea-env/Scripts/(A|a)ctivate.(bat|ps1)` depending on 
 
 ### On Windows:
 
-```powershell
+```bash
 ./ea-env/Scripts/activate.bat
 ./ea-env/Scripts/Activate.ps1
 ```
