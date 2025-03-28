@@ -1,0 +1,33 @@
+USUARIO - Preferencias
+
+Numero de días a ejercitar
+
+Tipos de músculos / parte del cuerpo
+
+Nivel de dificultad
+
+Objetivo: filtro de Clasificación del ejercicio
+
+Combination Exercises - Combinación de los diferentes ejercicios
+
+En función de nivel = tiempo del ejercicio
+
+
+
+USUARIO - Constraint
+
+HARD CONSTRAINT: Gimnasio vs Equipamiento vs No Equipamiento
+
+
+
+CALCULAR EL FITNESS
+
+En función del nivel de dificultad se calcula el tiempo
+
+Penalizaciones: si nivel bajo, penalizar mucho ejercicio de dificultad alta 
+Penalizaciones: si nivel alto, penalizar poco ejercicio de dificultad baja
+Penalizaciones: alternar ejercicios en función de force type (pull, push), alternarlos
+Penalizaciones: si el ejercicio no es del tipo que se desea, penalización
+Penalizaciones: más días mas variedad (premiar) y menos días menos variedad(premiar)
+Penalizaciones: si de un tipo de ejercicio se dispone del equipamiento, elegirlo sobre otro que no
+Penalizaciones: (premiar) diferentes patrones de movimiento
