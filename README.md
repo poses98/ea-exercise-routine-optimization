@@ -14,26 +14,55 @@ Ensure you have the correct Python environment activated before running the comm
 
 ## Fitness Function
 
-//TODO
+$$
+fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios}
+$$
 
 ## Penalizaciones de Fitness
 
 ### Ejercicios iguales (implementado con un *for* iterado)  
-- muy seguidos (0 - 2 ejs distancia) [* 0.95]  
-- seguidos (3 - 8 ejs distancia) [* 0.99]  
-- separados (9+ ejs distancia) [No penaliza]  
+- muy seguidos (0 - 2 ejs distancia) [y = 0.95]  
+- seguidos (3 - 8 ejs distancia) [y = 0.99]  
+- separados (9+ ejs distancia) [y = 1]
+
+$$
+fitness \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios}
+$$ 
 
 ### Minutos ocupados
 $$
-\frac{MinUsados}{MinTotales}
+fitness \cdot \frac{MinUsados}{MinTotales}
 $$
 
 ### Músculos ejercitados
 $$
-\frac{MúsculosEjercitados}{MúsculosSolicitados}
+fitness \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados}
 $$  
 - En caso de que no exceda 100 el fitness, se sumará 0.05 por cada músculo extra
 <br>
+
+### Dificultad
+$$
+fitness \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios}
+$$  
+
+- Si el ejercicio es de dificultad superior al usuario:  
+$x = 1 - 0.3 \cdot diferencia$  
+
+- Si el ejercicio es de dificultad inferior al usuario:  
+$x = 1 - 0.2 \cdot diferencia$
+
+### Uso de Equipamiento
+$$
+fitness \cdot 0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9
+$$ 
+
+## Constraints
+
+### Soft Constraints
+- 
+
+### Hard Constraints
 
 ## Codificación
 
@@ -48,10 +77,10 @@ $$
 - Legendary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 min
 
 ### Solución Codificada:
-| --- | Exercise_ID | Order |
-|----------|----------|----------|
-| Ex1   | 4   | 1   |
-| Ex2   | 2851   | 2   |
-| Ex3   | 26   | 3   |
-| Ex4   | 550   | 4   |
-| Ex5   | 1   | 5   |
+| --- | Exercise_ID |
+|----------|----------|
+| Ex1   | 4   |
+| Ex2   | 2851   |
+| Ex3   | 26   |
+| Ex4   | 550   |
+| Ex5   | 1   |
