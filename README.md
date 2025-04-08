@@ -45,4 +45,13 @@ $$
 - Expert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18 min  
 - Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20 min  
 - Grand Master &nbsp;22 min  
-- Legendary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 min  
+- Legendary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 min
+
+### Solución Codificada:
+| --- | Exercise_ID | Order |
+|----------|----------|----------|
+| Ex1   | 4   | 1   |
+| Ex2   | 2851   | 2   |
+| Ex3   | 26   | 3   |
+| Ex4   | 550   | 4   |
+| Ex5   | 1   | 5   |
