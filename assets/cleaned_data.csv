@@ -1,22 +1,22 @@
 Exercise,DifficultyLevel,TargetMuscleGroup,PrimaryEquipment,#PrimaryItems,SecondaryEquipment,#SecondaryItems,BodyRegion,ForceType,PrimaryExerciseClassification
 Stability Ball Dead Bug,Beginner,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Postural
-Bodyweight Glute Bridge,Beginner,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Bird Dog,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Postural
+Bodyweight Glute Bridge,Beginner,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Bird Dog,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Postural
 Stability Ball Russian Twist,Beginner,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Stability Ball Feet Elevated Crunch,Beginner,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Ring Hanging Knee Raise,Intermediate,Abdominals,Gymnastic Rings,2.0,,0.0,Midsection,Other,Calisthenics
 Parallette Mountain Climber,Novice,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
 Parallette Push Up,Novice,Chest,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Knee Hover Bird Dog,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Postural
+Bodyweight Knee Hover Bird Dog,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Postural
 Stability Ball V Up Pass,Novice,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Dead Bug,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Postural
-Bodyweight Alternating Heel Taps,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Flutter Kicks,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Kneeling Forearm Plank,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Seated Ab Circles,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Dead Bug,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Postural
+Bodyweight Alternating Heel Taps,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Flutter Kicks,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Kneeling Forearm Plank,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Seated Ab Circles,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Ring Hanging Oblique Knee Raise,Intermediate,Abdominals,Gymnastic Rings,2.0,,0.0,Midsection,Other,Calisthenics
 Stability Ball Stir the Pot,Novice,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Alternating Lateral Kick Through,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Animal Flow
+Bodyweight Alternating Lateral Kick Through,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Animal Flow
 Ring L Sit Hang Flutter Kicks,Intermediate,Abdominals,Gymnastic Rings,2.0,,0.0,Midsection,Other,Calisthenics
 Slam Ball Russian Twist,Intermediate,Abdominals,Slam Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Dumbbell Otis Up,Novice,Abdominals,Dumbbell,1.0,,0.0,Midsection,Other,Unsorted*
@@ -29,15 +29,15 @@ Suspension Knee Tuck,Novice,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Ot
 Suspension Lateral Knee Tuck,Intermediate,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Other,Unsorted*
 Suspension Archer Row,Novice,Shoulders,Suspension Trainer,1.0,,0.0,Upper Body,Pull,Unsorted*
 Single Arm Dumbbell Turkish Get Up,Intermediate,Abdominals,Dumbbell,1.0,,0.0,Full Body,Other,Grinds
-Bodyweight Bear Crawl,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Animal Flow
+Bodyweight Bear Crawl,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Animal Flow
 Stability Ball Knee Tuck,Novice,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Ring Hanging Leg Raise,Advanced,Abdominals,Gymnastic Rings,2.0,,0.0,Midsection,Other,Calisthenics
 Parallette L Sit,Advanced,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Standing Walkout Plank,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Standing Walkout Plank,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Ring Eccentric Pull Up,Novice,Back,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
 Barbell Climb,Expert,Abdominals,Barbell,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Ipsilateral Bird Dog,Advanced,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Copenhagen Plank Knee to Elbow,Advanced,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Ipsilateral Bird Dog,Advanced,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Copenhagen Plank Knee to Elbow,Advanced,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
 Ring Eccentric Chin Up,Novice,Biceps,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
 Single Arm Dumbbell Seated Shoulder External Rotation,Novice,Shoulders,Dumbbell,1.0,Bench (Flat),1.0,Upper Body,Pull,Unsorted*
 Double Dumbbell Seated Cuban Rotation,Novice,Shoulders,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Pull,Unsorted*
@@ -45,7 +45,7 @@ Double Dumbbell Standing Cuban Rotation,Novice,Shoulders,Dumbbell,2.0,,0.0,Upper
 Single Arm Cable Half Kneeling Contralateral Shoulder External Rotation 90 Degrees,Novice,Shoulders,Cable,1.0,,0.0,Upper Body,Pull,Unsorted*
 Miniband Fire Hydrant,Beginner,Glutes,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Medicine Ball Russian Twist,Novice,Abdominals,Medicine Ball,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Side Plank,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Side Plank,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Cable Reverse Crunch,Intermediate,Abdominals,Cable,1.0,,0.0,Midsection,Other,Unsorted*
 Cable Rope Half Kneeling High to Low Chop,Intermediate,Abdominals,Cable,1.0,,0.0,Midsection,Other,Unsorted*
 Cable Rope Half Kneeling Low to High Chop,Intermediate,Abdominals,Cable,1.0,,0.0,Midsection,Other,Unsorted*
@@ -55,19 +55,19 @@ Cable Rope Staggered Stance Low to High Chop,Intermediate,Abdominals,Cable,1.0,,
 Single Arm Dumbbell Windmill,Intermediate,Abdominals,Dumbbell,1.0,,0.0,Midsection,Other,Unsorted*
 Slider Double Kettlebell Bottoms Up Front Rack Lateral Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Other,Bodybuilding
 Slider Double Kettlebell Front Rack Lateral Lunge,Novice,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Other,Bodybuilding
-Bodyweight Feet On Wall Mountain Climber,Advanced,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Feet On Wall Mountain Climber,Advanced,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Slider Double Kettlebell Suitcase Reverse Lunge,Novice,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
-Bodyweight Hollow Body Hold,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Hollow Body Hold,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Dumbbell Crush Grip Hollow Body Hold,Intermediate,Abdominals,Dumbbell,1.0,,0.0,Midsection,Other,Unsorted*
 Bar Inverted Hanging Crunch,Expert,Abdominals,Pull Up Bar,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Inverted Hanging Oblique Crunch,Expert,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Inverted Hanging Oblique Crunch,Expert,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Slider Double Kettlebell Front Rack Reverse Lunge,Novice,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
-Bodyweight Supine Alternating Single Leg Raise,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Supine Leg Raise,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Supine Alternating Single Leg Raise,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Supine Leg Raise,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Miniband Bicycle Crunch,Novice,Abdominals,Miniband,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Side Plank Reach Through,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Sit Up,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Butterfly Sit Up,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Side Plank Reach Through,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Sit Up,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Butterfly Sit Up,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Slider Mountain Climber,Novice,Abdominals,Sliders,2.0,,0.0,Midsection,Other,Unsorted*
 Slider Pike,Advanced,Abdominals,Sliders,2.0,,0.0,Midsection,Other,Unsorted*
 Stability Ball Pike,Advanced,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
@@ -81,19 +81,19 @@ Double Dumbbell Z Press,Novice,Shoulders,Dumbbell,2.0,,0.0,Upper Body,Push,Bodyb
 Slider Double Kettlebell Overhead Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Romanian Deadlift,Beginner,Hamstrings,Dumbbell,2.0,,0.0,Lower Body,Pull,Bodybuilding
 Single Arm Dumbbell Side Plank,Intermediate,Abdominals,Dumbbell,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Single Leg Glute Bridge,Novice,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Single Leg Glute Bridge,Novice,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Dumbbell Glute Bridge,Beginner,Glutes,Dumbbell,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Glute Bridge Isometric with Alternating Single Leg Extension,Beginner,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Glute Bridge Isometric with Alternating Single Leg Extension,Beginner,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Miniband Side Lying Clamshell,Beginner,Glutes,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Miniband Ankle Side Lying Hip Abduction,Beginner,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Miniband Bench Seated Hip Abduction,Beginner,Abductors,Miniband,1.0,Bench (Flat),1.0,Lower Body,Other,Bodybuilding
 Miniband Glute Bridge with Hip Abduction,Beginner,Glutes,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Stability Ball Hip Thrust,Beginner,Glutes,Stability Ball,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Stability Ball Dumbbell Hip Thrust,Beginner,Glutes,Stability Ball,1.0,Dumbbell,1.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Frog Pump,Beginner,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Frog Pump,Beginner,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Dumbbell Frog Pump,Beginner,Glutes,Dumbbell,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Cable Glute Kickback,Novice,Glutes,Cable,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Single Leg Foot Elevated Glute Bridge,Novice,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Single Leg Foot Elevated Glute Bridge,Novice,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Suspension Feet Elevated Glute Bridge,Novice,Glutes,Suspension Trainer,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Miniband Thigh Lateral Walk,Beginner,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Miniband Ankle Lateral Walk,Novice,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
@@ -124,7 +124,7 @@ Single Arm Cable Standing High Bicep Curl,Novice,Biceps,Cable,1.0,,0.0,Upper Bod
 EZ Bar Seated Overhead Tricep Extension,Novice,Triceps,EZ Bar,1.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 EZ Bar Standing Overhead Tricep Extension,Novice,Triceps,EZ Bar,1.0,,0.0,Upper Body,Push,Bodybuilding
 Barbell Thruster,Intermediate,Quadriceps,Barbell,1.0,,0.0,Full Body,Push,Bodybuilding
-Bodyweight Diamond Push Up,Novice,Triceps,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Diamond Push Up,Novice,Triceps,,1.0,,0.0,Upper Body,Push,Calisthenics
 EZ Bar Lying Tricep Extension,Novice,Triceps,EZ Bar,1.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Cable Rope Overhead Tricep Extension,Novice,Triceps,Cable,1.0,,0.0,Upper Body,Push,Bodybuilding
 Single Arm Cable Reverse Grip Tricep Pushdown,Novice,Triceps,Cable,1.0,,0.0,Upper Body,Push,Bodybuilding
@@ -156,7 +156,7 @@ Single Arm Landmine Meadows Row,Novice,Back,Landmine,1.0,,0.0,Upper Body,Pull,Bo
 Cable Straight Bar Seated Bicep Curl,Novice,Biceps,Cable,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Cable Rope Bench Skull Crusher,Novice,Triceps,Cable,1.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Single Arm Dumbbell Seated Cuban Press,Novice,Shoulders,Dumbbell,1.0,Bench (Flat),1.0,Upper Body,Push & Pull,Unsorted*
-Bodyweight Wall Facing Handstand,Novice,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Other,Calisthenics
+Bodyweight Wall Facing Handstand,Novice,Shoulders,,1.0,,0.0,Upper Body,Other,Calisthenics
 Parallette Close Grip Push Up,Novice,Triceps,Parallette Bars,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Wide Push Up,Novice,Chest,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Barbell Front Raise,Novice,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
@@ -195,7 +195,7 @@ Double Kettlebell Push Jerk,Novice,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push
 Double Dumbbell Glute Bridge Isometric Floor Press,Novice,Chest,Dumbbell,2.0,,0.0,Full Body,Push,Bodybuilding
 Double Kettlebell Seesaw Overhead Press,Novice,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Unsorted*
 Alternating Double Kettlebell Z Press,Novice,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Bodybuilding
-Bodyweight Burpee,Intermediate,Chest,Bodyweight,1.0,,0.0,Full Body,Push,Unsorted*
+Bodyweight Burpee,Intermediate,Chest,,1.0,,0.0,Full Body,Push,Unsorted*
 Double Dumbbell Devil Press,Advanced,Shoulders,Dumbbell,2.0,,0.0,Full Body,Push,Unsorted*
 Alternating Single Arm Dumbbell Devil Press,Advanced,Shoulders,Dumbbell,1.0,,0.0,Full Body,Push,Unsorted*
 Double Kettlebell Seesaw Z Press,Novice,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Bodybuilding
@@ -205,7 +205,7 @@ Suspension Cuban Press,Novice,Shoulders,Suspension Trainer,1.0,,0.0,Upper Body,P
 Barbell Decline Bench Press,Novice,Chest,Barbell,1.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
 Kettlebell Half Kneeling Alternating Halo,Novice,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Pull,Mobility
 Kettlebell Tall Kneeling Alternating Halo,Novice,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Pull,Mobility
-Bodyweight Rolling Squat Burpee,Advanced,Chest,Bodyweight,1.0,,0.0,Full Body,Push,Plyometric
+Bodyweight Rolling Squat Burpee,Advanced,Chest,,1.0,,0.0,Full Body,Push,Plyometric
 Kettlebell Tall Kneeling Alternating Hip to Halo,Novice,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Pull,Mobility
 Barbell Seated Overhead Press,Novice,Shoulders,Barbell,1.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Dumbbell Crush Grip Z Press,Novice,Shoulders,Dumbbell,1.0,,0.0,Upper Body,Push,Bodybuilding
@@ -240,20 +240,20 @@ Alternating Double Clubbell Torch Press,Novice,Shoulders,Clubbell,2.0,,0.0,Upper
 Stability Ball Hyperextension,Novice,Back,Stability Ball,1.0,,0.0,Unsorted*,Unsorted*,Unsorted*
 Barbell Seated Good Morning,Intermediate,Back,Barbell,1.0,Bench (Flat),1.0,Unsorted*,Unsorted*,Bodybuilding
 Barbell Good Morning,Intermediate,Back,Barbell,1.0,,0.0,Unsorted*,Unsorted*,Bodybuilding
-Bodyweight Wall Sit,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Other,Unsorted*
-Bodyweight Wall Slide Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Unsorted*
+Bodyweight Wall Sit,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Other,Unsorted*
+Bodyweight Wall Slide Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Unsorted*
 Stability Ball Wall Slide Squat,Beginner,Quadriceps,Stability Ball,1.0,,0.0,Lower Body,Push,Unsorted*
 Suspension Squat,Beginner,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Unsorted*
 Suspension Alternating Reverse Lunge,Beginner,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Squat to Bench,Beginner,Quadriceps,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Push,Calisthenics
-Bodyweight Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
-Bodyweight Hand Assisted Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Walking Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Squat to Bench,Beginner,Quadriceps,,1.0,Bench (Flat),1.0,Lower Body,Push,Calisthenics
+Bodyweight Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Hand Assisted Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Walking Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Dumbbell Goblet Squat,Beginner,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Miniband Romanian Deadlift,Beginner,Hamstrings,Miniband,1.0,,0.0,Lower Body,Pull,Bodybuilding
 Superband Resisted Skater Jump,Intermediate,Abductors,Superband,1.0,,0.0,Lower Body,Push,Plyometric
 Cable Prone Single Leg Hamstring Curl,Beginner,Hamstrings,Cable,1.0,,0.0,Lower Body,Pull,Bodybuilding
-Bodyweight Candlestick Roll Up Tuck Jump,Intermediate,Glutes,Bodyweight,1.0,,0.0,Unsorted*,Unsorted*,Plyometric
+Bodyweight Candlestick Roll Up Tuck Jump,Intermediate,Glutes,,1.0,,0.0,Unsorted*,Unsorted*,Plyometric
 Single Arm Clubbell Front Flag Press,Novice,Shoulders,Clubbell,1.0,,0.0,Upper Body,Push,Unsorted*
 Double Clubbell Front Flag Press,Novice,Shoulders,Clubbell,2.0,,0.0,Upper Body,Push,Unsorted*
 Barbell Block Pull Deadlift,Novice,Back,Barbell,1.0,,0.0,Full Body,Pull,Bodybuilding
@@ -273,8 +273,8 @@ Single Arm Indian Club Lateral Internal and External Rotation,Novice,Shoulders,I
 Barbell Back Rack Split Squat,Novice,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Stiff Legged Deadlift,Novice,Hamstrings,Barbell,1.0,,0.0,Lower Body,Pull,Bodybuilding
 Barbell Sumo Back Squat,Novice,Glutes,Barbell,1.0,,0.0,Lower Body,Push,Unsorted*
-Bodyweight Pistol Squat,Advanced,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
-Bodyweight Skater Squat,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Pistol Squat,Advanced,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Skater Squat,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Cable Pull Through,Beginner,Glutes,Cable,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Double Dumbbell Suitcase Bulgarian Split Squat,Intermediate,Quadriceps,Dumbbell,2.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Suitcase Step Up,Novice,Quadriceps,Dumbbell,2.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
@@ -284,8 +284,8 @@ Double Dumbbell Suitcase Alternating Reverse Lunge,Novice,Quadriceps,Dumbbell,2.
 Double Indian Club Overhead Arm Circles,Novice,Shoulders,Indian Club,2.0,,0.0,Upper Body,Other,Mobility
 Double Dumbbell Suitcase Split Squat,Novice,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Front Rack Alternating Step Up,Novice,Quadriceps,Dumbbell,2.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
-Bodyweight Face the Wall Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Unsorted*
-Bodyweight Feet Elevated Glute Bridge,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Face the Wall Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Unsorted*
+Bodyweight Feet Elevated Glute Bridge,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Slider Single Arm Kettlebell Bottoms Up Front Rack Contralateral Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,1.0,Lower Body,Push,Bodybuilding
 Slider Single Arm Kettlebell Bottoms Up Front Rack Ipsilateral Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,1.0,Lower Body,Push,Bodybuilding
 Slider Single Arm Kettlebell Overhead Contralateral Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,1.0,Lower Body,Push,Bodybuilding
@@ -294,37 +294,37 @@ Slider Single Arm Kettlebell Bottoms Up Overhead Contralateral Reverse Lunge,Adv
 Slider Single Arm Kettlebell Bottoms Up Overhead Ipsilateral Reverse Lunge,Advanced,Quadriceps,Sliders,1.0,Kettlebell,1.0,Lower Body,Push,Bodybuilding
 Slider Kettlebell Goblet Reverse Lunge,Novice,Quadriceps,Sliders,1.0,Kettlebell,1.0,Lower Body,Push,Bodybuilding
 Miniband Thigh Monster Walk,Beginner,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
-Bodyweight Quadruped Hip Extension,Beginner,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Quadruped Hip Extension,Beginner,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Suspension Pistol Squat,Intermediate,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Balance
 Suspension Skater Squat,Novice,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Balance
-Bodyweight Tuck Jump,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Plyometric
-Bodyweight Alternating Single Leg Wall Sit,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Other,Unsorted*
-Bodyweight Single Leg Romanian Deadlift Jump,Intermediate,Hamstrings,Bodyweight,1.0,,0.0,Lower Body,Other,Plyometric
+Bodyweight Tuck Jump,Novice,Quadriceps,,1.0,,0.0,Lower Body,Unsorted*,Plyometric
+Bodyweight Alternating Single Leg Wall Sit,Novice,Quadriceps,,1.0,,0.0,Lower Body,Other,Unsorted*
+Bodyweight Single Leg Romanian Deadlift Jump,Intermediate,Hamstrings,,1.0,,0.0,Lower Body,Other,Plyometric
 Double Dumbbell Overhead Walking Lunge,Intermediate,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Stability Ball Double Dumbbell Suitcase Bulgarian Split Squat,Intermediate,Quadriceps,Stability Ball,1.0,Dumbbell,2.0,Lower Body,Push,Bodybuilding
-Bodyweight Reverse Nordic,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
-Bodyweight Alternating Lateral Bench Jump,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Plyometric
+Bodyweight Reverse Nordic,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Alternating Lateral Bench Jump,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Plyometric
 Single Arm Dumbbell Front Rack Squat,Novice,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Skater Jump,Intermediate,Abductors,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight Skater Jump,Intermediate,Abductors,,1.0,,0.0,Lower Body,Push,Plyometric
 Slider Single Arm Dumbbell Front Rack Contralateral Reverse Lunge,Novice,Quadriceps,Sliders,1.0,Dumbbell,1.0,Lower Body,Push,Bodybuilding
 Cable Prone Bench Hamstring Curl,Novice,Hamstrings,Cable,1.0,Bench (Flat),1.0,Lower Body,Pull,Bodybuilding
-Bodyweight Bulgarian Split Squat Jump,Intermediate,Quadriceps,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Push,Plyometric
+Bodyweight Bulgarian Split Squat Jump,Intermediate,Quadriceps,,1.0,Bench (Flat),1.0,Lower Body,Push,Plyometric
 Cable Standing Single Leg Hamstring Curl,Novice,Hamstrings,Cable,1.0,,0.0,Lower Body,Pull,Bodybuilding
-Bodyweight Nordic Hamstring Curl,Advanced,Hamstrings,Bodyweight,1.0,,0.0,Lower Body,Pull,Unsorted*
+Bodyweight Nordic Hamstring Curl,Advanced,Hamstrings,,1.0,,0.0,Lower Body,Pull,Unsorted*
 Superband Assisted Pistol Squat,Intermediate,Quadriceps,Superband,1.0,,0.0,Lower Body,Push,Balance
 Slider Double Kettlebell Bottoms Up Front Rack Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Front Rack Squat,Novice,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Suitcase Walking Lunge,Novice,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Walking Lunge,Intermediate,Quadriceps,Barbell,2.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Box Pistol Squat,Novice,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
+Bodyweight Box Pistol Squat,Novice,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
 Barbell Overhead Squat,Intermediate,Quadriceps,Barbell,2.0,,0.0,Lower Body,Push,Unsorted*
 Slider Double Kettlebell Bottoms Up Overhead Reverse Lunge,Advanced,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
 Landmine Goblet Squat,Novice,Quadriceps,Landmine,1.0,,0.0,Lower Body,Push,Bodybuilding
 Stability Ball Hamstring Curl,Novice,Hamstrings,Stability Ball,1.0,,0.0,Lower Body,Pull,Unsorted*
 Slider Hamstring Curl,Novice,Hamstrings,Sliders,2.0,,0.0,Lower Body,Pull,Unsorted*
-Bodyweight Hamstring Walkout,Novice,Hamstrings,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Hamstring Walkout,Novice,Hamstrings,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Slider Dumbbell Goblet Reverse Lunge,Novice,Quadriceps,Sliders,1.0,Dumbbell,1.0,Lower Body,Push,Bodybuilding
-Bodyweight Dragon Squat,Expert,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Dragon Squat,Expert,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Single Arm Dumbbell Front Rack Ipsilateral Cossack Squat to Overhead Press,Intermediate,Shoulders,Dumbbell,1.0,,0.0,Full Body,Push,Bodybuilding
 Stability Ball Single Leg Hamstring Curl,Intermediate,Hamstrings,Stability Ball,1.0,,0.0,Lower Body,Pull,Bodybuilding
 Barbell Single Leg Romanian Deadlift,Intermediate,Hamstrings,Barbell,1.0,,0.0,Lower Body,Pull,Bodybuilding
@@ -365,8 +365,8 @@ Barbell Back Rack Alternating Cossack Squat,Intermediate,Quadriceps,Barbell,1.0,
 Barbell Front Rack Alternating Cossack Squat,Intermediate,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Slider Double Kettlebell Overhead Lateral Lunge,Intermediate,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Other,Bodybuilding
 Dumbbell Goblet Alternating Cossack Squat,Novice,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Alternating Cossack Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Knee Over Toe Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Alternating Cossack Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Knee Over Toe Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Knee Over Toe Split Squat,Intermediate,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Front Rack Knee Over Toe Split Squat,Intermediate,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Overhead Knee Over Toe Split Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -378,12 +378,12 @@ EZ Bar Decline Bench Skull Crusher,Novice,Triceps,EZ Bar,1.0,Bench (Decline),1.0
 EZ Bar Front Raise,Novice,Shoulders,EZ Bar,1.0,,0.0,Upper Body,Push,Bodybuilding
 Suspension Pike,Intermediate,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Other,Unsorted*
 Suspension Side Plank Reach Through,Advanced,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Cocoon Crunch,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Cocoon Crunch,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Ab Wheel Standing Rollout,Advanced,Abdominals,Ab Wheel,1.0,,0.0,Midsection,Other,Unsorted*
 Cable Fire Hydrant,Novice,Glutes,Cable,1.0,,0.0,Lower Body,Other,Bodybuilding
 Cable Tall Kneeling Pull Through,Novice,Glutes,Cable,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Stability Ball Bent Knee Reverse Hyperextension,Novice,Glutes,Stability Ball,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Bench Bent Knee Reverse Hyperextension,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Bench Bent Knee Reverse Hyperextension,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Parallette Tuck L Sit,Intermediate,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
 EZ Bar Close Grip Bicep Curl,Novice,Biceps,EZ Bar,1.0,,0.0,Upper Body,Pull,Bodybuilding
 EZ Bar Overhead Press,Novice,Shoulders,EZ Bar,1.0,,0.0,Upper Body,Push,Bodybuilding
@@ -433,7 +433,7 @@ Tire Macebell Staggered Stance Slam,Novice,Abdominals,Tire,1.0,Macebell,1.0,Uppe
 Barbell Hang Power Clean,Intermediate,Glutes,Barbell,1.0,,0.0,Full Body,Unsorted*,Olympic Weightlifting
 Landmine Goblet Alternating Cossack Squat,Intermediate,Quadriceps,Landmine,1.0,,0.0,Lower Body,Push,Bodybuilding
 Landmine Low Hold Alternating Cossack Squat,Intermediate,Quadriceps,Landmine,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Push Up,Novice,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Push Up,Novice,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Barbell Close Grip Incline Bench Press,Novice,Triceps,Barbell,1.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Barbell Close Grip Decline Bench Press,Novice,Triceps,Barbell,1.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Push Press,Novice,Shoulders,Dumbbell,2.0,,0.0,Upper Body,Push,Bodybuilding
@@ -453,11 +453,10 @@ Single Arm Kettlebell Bottoms Up Floor Press,Novice,Chest,Kettlebell,1.0,,0.0,Up
 Trap Bar Bent Over Row,Novice,Back,Trap Bar,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Trap Bar Pendlay Row,Novice,Back,Trap Bar,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Trap Bar Shrug,Novice,Trapezius,Trap Bar,1.0,,0.0,Upper Body,Pull,Bodybuilding
-Bodyweight Tuck L Sit,Advanced,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Tuck L Sit,Advanced,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Parallette Straddle L Sit,Advanced,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
 Ring Turned Out L Sit,Expert,Abdominals,Gymnastic Rings,2.0,,0.0,Midsection,Other,Calisthenics
 Battle Rope Power Slam,Novice,Abdominals,Battle Ropes,1.0,,0.0,Upper Body,Other,Unsorted*
-Bodyweight Manna,Grand Master,Abdominals,Bodyweight,1.0,,0.0,Unsorted*,Unsorted*,Unsorted*
 Ring Tuck Back Lever,Advanced,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Ring Advanced Tuck Back Lever,Advanced,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Ring Straddle Back Lever,Expert,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
@@ -500,7 +499,7 @@ Barbell Reverse Grip Bent Over Row,Novice,Back,Barbell,1.0,,0.0,Upper Body,Pull,
 Macebell Offset Bent Over Row,Novice,Back,Macebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Macebell Reverse Grip Offset Bent Over Row,Novice,Back,Macebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Alternating Single Arm Kettlebell Pendlay Row,Novice,Back,Kettlebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
-Bodyweight Hollow Body Rock,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Hollow Body Rock,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Single Arm Dumbbell Power Snatch,Intermediate,Glutes,Dumbbell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
 Alternating Single Arm Dumbbell Power Snatch,Intermediate,Glutes,Dumbbell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
 Single Arm Dumbbell Squat Snatch,Intermediate,Quadriceps,Dumbbell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
@@ -515,7 +514,7 @@ Single Arm Dumbbell Spider Curl,Novice,Biceps,Dumbbell,1.0,Bench (Incline),1.0,U
 Double Kettlebell Spider Curl,Novice,Biceps,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
 Double Kettlebell Bottoms Up Incline Bench Press,Novice,Chest,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Seated Good Morning,Novice,Back,Dumbbell,2.0,Bench (Flat),1.0,Unsorted*,Unsorted*,Bodybuilding
-Bodyweight Hip Thrust,Beginner,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Hip Thrust,Beginner,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Double Kettlebell Front Rack Box Pistol Squat,Intermediate,Quadriceps,Kettlebell,2.0,Plyo Box,1.0,Lower Body,Push,Balance
 Alternating Double Kettlebell Bottoms Up Incline Bench Press,Novice,Chest,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Single Arm Kettlebell Bottoms Up Incline Bench Press,Novice,Chest,Kettlebell,1.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
@@ -591,12 +590,12 @@ Cable Rope Tall Kneeling High to Low Chop,Intermediate,Abdominals,Cable,1.0,,0.0
 Single Arm Parallette Plank,Intermediate,Abdominals,Parallette Bars,1.0,,0.0,Midsection,Other,Calisthenics
 Single Arm Suspension Plank,Intermediate,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Other,Unsorted*
 Battle Rope Russian Twist,Novice,Abdominals,Battle Ropes,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Bird Dog Knee to Elbow,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Bird Dog Knee to Elbow,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Slam Ball Feet Elevated Russian Twist,Intermediate,Abdominals,Slam Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Medicine Ball Feet Elevated Russian Twist,Novice,Abdominals,Medicine Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Alternating Double Dumbbell Prone Row,Novice,Back,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
-Bodyweight Forearm Plank Alternating Knee to Elbow,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Loaded Beast to Alternating Kick Through,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Animal Flow
+Bodyweight Forearm Plank Alternating Knee to Elbow,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Loaded Beast to Alternating Kick Through,Intermediate,Abdominals,,1.0,,0.0,Midsection,Other,Animal Flow
 Single Arm Dumbbell Prone Row,Novice,Back,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Double Kettlebell Clean,Intermediate,Glutes,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
 Double Kettlebell Snatch,Intermediate,Glutes,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
@@ -613,7 +612,7 @@ Superband Single Leg Standing Bent Knee Hip External Rotation,Novice,Glutes,Supe
 Macebell Reverse Grip Offset Bicep Curl,Novice,Forearms,Macebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Ring Archer Row,Novice,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Unsorted*
 Single Arm Landmine Row to Rotational Shoulder Press,Intermediate,Shoulders,Landmine,1.0,,0.0,Full Body,Push & Pull,Bodybuilding
-Bodyweight Hand Assisted Skater Squat,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Hand Assisted Skater Squat,Novice,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Superband Pull Through,Beginner,Glutes,Superband,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Miniband Quadruped Hip Extension,Beginner,Glutes,Miniband,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Cable Hip Adduction,Novice,Adductors,Cable,1.0,,0.0,Lower Body,Other,Unsorted*
@@ -632,7 +631,7 @@ Resistance Band Alternating Shoulder Dislocates,Novice,Shoulders,Resistance Band
 Cable Straight Bar Spider Curl,Novice,Biceps,Cable,1.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
 Double Kettlebell Bottoms Up Front Rack Squat,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Cyclist Squat,Intermediate,Quadriceps,Barbell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
-Gravity Boots Inverted Sit Up,Advanced,Abdominals,Bodyweight,1.0,Gravity Boots,1.0,Midsection,Other,Unsorted*
+Gravity Boots Inverted Sit Up,Advanced,Abdominals,,1.0,Gravity Boots,1.0,Midsection,Other,Unsorted*
 Double Kettlebell Front Rack Knee Over Toe Split Squat,Novice,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Overhead Knee Over Toe Split Squat,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Step Up,Intermediate,Quadriceps,Barbell,1.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
@@ -641,13 +640,13 @@ Barbell Standing Rollout,Advanced,Abdominals,Barbell,1.0,,0.0,Midsection,Other,U
 Stability Ball Cable Russian Twist,Novice,Abdominals,Stability Ball,1.0,Cable,1.0,Midsection,Other,Unsorted*
 Miniband Frog Pump,Beginner,Glutes,Miniband,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Miniband Knee Hover Quadruped Fire Hydrant,Advanced,Glutes,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
-Bodyweight Fire Hydrant,Beginner,Glutes,Bodyweight,1.0,,0.0,Lower Body,Other,Unsorted*
-Bodyweight Knee Hover Quadruped Fire Hydrant,Intermediate,Glutes,Bodyweight,1.0,,0.0,Lower Body,Other,Unsorted*
+Bodyweight Fire Hydrant,Beginner,Glutes,,1.0,,0.0,Lower Body,Other,Unsorted*
+Bodyweight Knee Hover Quadruped Fire Hydrant,Intermediate,Glutes,,1.0,,0.0,Lower Body,Other,Unsorted*
 Dumbbell Crush Grip Spider Curl,Novice,Biceps,Dumbbell,1.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
 Alternating Double Dumbbell Spider Curl,Novice,Biceps,Dumbbell,2.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
-Bodyweight Bent Knee Copenhagen Plank Side Raise,Intermediate,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
-Bodyweight Kneeling Side Plank,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Wall Assisted Hip Airplane,Intermediate,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Bent Knee Copenhagen Plank Side Raise,Intermediate,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Kneeling Side Plank,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Wall Assisted Hip Airplane,Intermediate,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Superband Single Leg Tibialis Raise,Beginner,Shins,Superband,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Barbell Zercher Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Unsorted*
 Barbell Squat Snatch,Expert,Quadriceps,Barbell,1.0,,0.0,Full Body,Unsorted*,Olympic Weightlifting
@@ -656,14 +655,14 @@ Barbell Squat Clean to Split Jerk,Expert,Shoulders,Barbell,1.0,,0.0,Full Body,Pu
 Slider Kneeling Alternating Reach Push Up,Novice,Chest,Sliders,2.0,,0.0,Upper Body,Push,Unsorted*
 Barbell Hang Squat Clean to Thruster,Advanced,Shoulders,Barbell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
 Barbell Squat Clean to Thruster,Advanced,Shoulders,Barbell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
-Bodyweight Copenhagen Plank,Novice,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
-Bodyweight Bent Knee Copenhagen Plank,Novice,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Copenhagen Plank,Novice,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Bent Knee Copenhagen Plank,Novice,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
 Single Arm Clubbell Inside Pullover,Novice,Back,Clubbell,1.0,,0.0,Upper Body,Pull,Unsorted*
 Miniband Single Leg Hip Thrust,Novice,Glutes,Miniband,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Barbell Deficit Snatch Grip Deadlift,Intermediate,Back,Barbell,1.0,,0.0,Full Body,Pull,Bodybuilding
 Single Arm Clubbell Outside Pullover,Novice,Back,Clubbell,1.0,,0.0,Upper Body,Pull,Unsorted*
-Bodyweight Hand Assisted Foot Elevated Knee Over Toe Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Foot Elevated Knee Over Toe Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Foot Elevated Knee Over Toe Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Foot Elevated Knee Over Toe Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Thruster,Novice,Quadriceps,Kettlebell,2.0,,0.0,Full Body,Push,Bodybuilding
 Double Kettlebell Cossack Squat Thruster,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Push,Bodybuilding
 Double Kettlebell Alternating Cossack Squat Thruster,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Push,Bodybuilding
@@ -687,11 +686,11 @@ EZ Bar Wide Grip Strict Bicep Curl,Novice,Biceps,EZ Bar,1.0,,0.0,Upper Body,Pull
 Double Kettlebell Squat Clean,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
 Double Kettlebell Hollow Body Hold,Intermediate,Abdominals,Kettlebell,2.0,,0.0,Midsection,Other,Unsorted*
 Alternating Double Dumbbell Incline Bench Prone Row,Novice,Back,Dumbbell,2.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
-Bodyweight Side Lying Hip Adduction,Beginner,Adductors,Bodyweight,1.0,,0.0,Lower Body,Other,Unsorted*
+Bodyweight Side Lying Hip Adduction,Beginner,Adductors,,1.0,,0.0,Lower Body,Other,Unsorted*
 Superband Hollow Body Hold,Intermediate,Abdominals,Superband,1.0,,0.0,Midsection,Other,Unsorted*
 Parallette Freestanding Handstand Push Up,Master,Shoulders,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Slider Single Leg Eccentric Hamstring Curl,Intermediate,Hamstrings,Sliders,1.0,,0.0,Lower Body,Pull,Unsorted*
-Bodyweight Freestanding Handstand Push Up,Master,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Freestanding Handstand Push Up,Master,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Ring Grip Push Up,Master,Chest,Gymnastic Rings,1.0,,0.0,Upper Body,Push,Calisthenics
 Superband Side Plank Hanging Adduction,Intermediate,Adductors,Superband,1.0,,0.0,Lower Body,Other,Unsorted*
 Ring Strap Bulgarian Handstand Push Up,Master,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
@@ -702,7 +701,7 @@ Double Kettlebell Hollow Body Hold with Flutter Kicks,Intermediate,Abdominals,Ke
 Barbell Overhead Cyclist Squat,Advanced,Quadriceps,Barbell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Barbell Front Rack Cyclist Squat,Intermediate,Quadriceps,Barbell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Dead Clean to Push Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
-Bodyweight Bent Arm Press Handstand,Master,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Bent Arm Press Handstand,Master,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Barbell Cyclist Thruster,Intermediate,Quadriceps,Barbell,1.0,Slant Board,1.0,Full Body,Push,Bodybuilding
 Parallette L Sit to Bent Arm Press Handstand,Master,Shoulders,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Alternating Single Arm Landmine Thruster,Intermediate,Quadriceps,Landmine,1.0,,0.0,Full Body,Push,Bodybuilding
@@ -712,7 +711,7 @@ Barbell Low Bar Cyclist Squat,Intermediate,Quadriceps,Barbell,1.0,Slant Board,1.
 Double Kettlebell Front Rack Split Squat,Novice,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Front Rack Bulgarian Split Squat,Intermediate,Quadriceps,Kettlebell,2.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Overhead Squat,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Chest Roll to Straight Body Press Handstand,Master,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Chest Roll to Straight Body Press Handstand,Master,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Kettlebell Overhead Contralateral Knee Over Toe Split Squat,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Dead Clean to Rotational Overhead Press,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Ring Bent Arm Bent Body Press Handstand,Master,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
@@ -773,14 +772,14 @@ Bar Full Front Lever Pull Up,Master,Back,Pull Up Bar,1.0,,0.0,Upper Body,Pull,Ca
 Barbell Overhead Bulgarian Split Squat,Advanced,Quadriceps,Barbell,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Barbell Bulgarian Split Squat Thruster,Advanced,Shoulders,Barbell,1.0,Bench (Flat),1.0,Full Body,Push,Bodybuilding
 Single Arm Barbell Overhead Bulgarian Split Squat,Expert,Quadriceps,Barbell,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
-Bodyweight Full Planche Push Up,Master,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Straddle Planche Push Up,Master,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Push Up to Alternating Kick Through,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Animal Flow
-Bodyweight Standing Walkout Push Up,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Unsorted*
+Bodyweight Full Planche Push Up,Master,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Straddle Planche Push Up,Master,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Push Up to Alternating Kick Through,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Animal Flow
+Bodyweight Standing Walkout Push Up,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Unsorted*
 Ring Pull Up,Intermediate,Back,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
 Single Arm Plate Windmill,Advanced,Abdominals,Weight Plate,1.0,,0.0,Midsection,Other,Grinds
 Single Arm Plate Turkish Get Up,Advanced,Abdominals,Weight Plate,1.0,,0.0,Full Body,Other,Grinds
-Bodyweight Pike Push Up,Intermediate,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Pike Push Up,Intermediate,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Feet Elevated Pike Push Up,Intermediate,Shoulders,Parallette Bars,2.0,Bench (Flat),1.0,Upper Body,Push,Calisthenics
 Barbell Sots Press,Intermediate,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Snatch,Advanced,Glutes,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
@@ -792,7 +791,7 @@ Single Arm Dumbbell V Sit Overhead Press,Intermediate,Shoulders,Dumbbell,1.0,,0.
 Single Arm Dumbbell Z Press,Intermediate,Shoulders,Dumbbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Parallette Feet Elevated Push Up,Intermediate,Chest,Parallette Bars,2.0,Bench (Flat),1.0,Upper Body,Push,Calisthenics
 Stability Ball Feet Elevated Diamond Push Up,Intermediate,Triceps,Stability Ball,1.0,,0.0,Upper Body,Push,Unsorted*
-Bodyweight Tricep Extension,Intermediate,Triceps,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Tricep Extension,Intermediate,Triceps,,1.0,,0.0,Upper Body,Push,Calisthenics
 Alternating Single Arm Kettlebell Around the World,Novice,Abdominals,Kettlebell,1.0,,0.0,Unsorted*,Other,Unsorted*
 Single Arm Kettlebell Tall Kneeling Around the World,Novice,Abdominals,Kettlebell,1.0,,0.0,Unsorted*,Other,Unsorted*
 Alternating Single Arm Tall Kneeling Around the World,Novice,Abdominals,Kettlebell,1.0,,0.0,Unsorted*,Other,Unsorted*
@@ -818,10 +817,10 @@ Kettlebell Start Stop Swing,Novice,Glutes,Kettlebell,1.0,,0.0,Full Body,Unsorted
 Double Kettlebell Dead Clean,Intermediate,Glutes,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
 Single Arm Barbell Bulgarian Split Squat Thruster,Expert,Shoulders,Barbell,1.0,Bench (Flat),1.0,Full Body,Push,Bodybuilding
 Single Arm Barbell Windmill,Expert,Abdominals,Barbell,1.0,,0.0,Midsection,Other,Grinds
-Bodyweight Windmill,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Grinds
+Bodyweight Windmill,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Grinds
 Superband Split Squat Isometric Pallof Press,Intermediate,Abdominals,Superband,1.0,,0.0,Full Body,Other,Balance
 Single Arm Barbell Turkish Get Up,Expert,Abdominals,Barbell,1.0,,0.0,Full Body,Other,Grinds
-Bodyweight Plate Plyometric Push Up,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Plyometric
+Bodyweight Plate Plyometric Push Up,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Plyometric
 Single Arm Dumbbell Single Leg Contralateral Bent Over Row,Intermediate,Back,Dumbbell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Double Dumbbell Single Leg Bent Over Row,Intermediate,Back,Dumbbell,2.0,,0.0,Upper Body,Pull,Bodybuilding
 Single Arm Kettlebell Bottoms Up Thruster,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Full Body,Push,Bodybuilding
@@ -848,7 +847,7 @@ Alternating Single Arm Kettlebell Bottoms Up Clean to Overhead Press,Intermediat
 Double Kettlebell Bottoms Up Clean to Overhead Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
 Double Kettlebell Bottoms Up Overhead Knee Over Toe Split Squat,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Landmine Half Kneeling Contralateral Shoulder Press,Intermediate,Shoulders,Landmine,1.0,,0.0,Upper Body,Push,Unsorted*
-Bodyweight Bulgarian Split Squat,Novice,Quadriceps,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
+Bodyweight Bulgarian Split Squat,Novice,Quadriceps,,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Plate Otis Up,Novice,Abdominals,Weight Plate,1.0,,0.0,Midsection,Other,Unsorted*
 Double Kettlebell Overhead Pistol Squat,Expert,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Balance
 Double Kettlebell Bottoms Up Front Rack Pistol Squat,Expert,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Balance
@@ -862,7 +861,7 @@ Single Arm Suspension Bicep Curl,Intermediate,Biceps,Suspension Trainer,1.0,,0.0
 Suspension Atomic Push Up,Intermediate,Chest,Suspension Trainer,1.0,,0.0,Upper Body,Push,Unsorted*
 Parallette Feet Elevated Close Grip Push Up,Intermediate,Triceps,Parallette Bars,1.0,Bench (Flat),1.0,Upper Body,Push,Calisthenics
 Double Kettlebell Clean to Thruster,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
-Bodyweight Archer Push Up,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Archer Push Up,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Archer Push Up,Intermediate,Chest,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Suspension Push Up,Intermediate,Chest,Suspension Trainer,1.0,,0.0,Upper Body,Push,Unsorted*
 Ring Skin the Cat,Intermediate,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
@@ -890,21 +889,19 @@ Barbell Front Rack Bulgarian Split Squat,Intermediate,Quadriceps,Barbell,1.0,Ben
 Barbell Back Rack Bulgarian Split Squat,Intermediate,Quadriceps,Barbell,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Single Arm Suspension Contralateral Pistol Squat,Advanced,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Balance
 Barbell Front Rack Alternating Curtsy Lunge,Intermediate,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Dragon Flag,Advanced,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Dragon Flag,Advanced,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Single Arm Kettlebell Front Rack Ipsilateral Bulgarian Split Squat,Intermediate,Quadriceps,Kettlebell,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
-Bodyweight Dive Bomber Push Up,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Dive Bomber Push Up,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Barbell Staggered Stance Push Press,Intermediate,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Unsorted*
 Parallette Full Planche,Expert,Abdominals,Parallette Bars,2.0,,0.0,Unsorted*,Other,Calisthenics
 Double Dumbbell Renegade Row to Push Up,Intermediate,Back,Dumbbell,2.0,,0.0,Upper Body,Push & Pull,Bodybuilding
-Ring Inverted Iron Cross,Grand Master,Back,Gymnastic Rings,2.0,,0.0,Unsorted*,Unsorted*,Calisthenics
 Barbell Reverse Grip Front Raise,Intermediate,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Ring Tuck Planche,Advanced,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Barbell Seated Reverse Grip Wrist Curl,Intermediate,Forearms,Barbell,1.0,Bench (Flat),1.0,Upper Body,Pull,Unsorted*
 Ring Full Planche,Master,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Alternating Single Arm Parallette Push Up,Intermediate,Chest,Parallette Bars,1.0,,0.0,Upper Body,Push,Calisthenics
 Ring Scapular Pull Up,Intermediate,Back,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
-Ring Grip Full Planche,Grand Master,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
-Bodyweight Full Planche,Expert,Abdominals,Bodyweight,1.0,,0.0,Unsorted*,Other,Calisthenics
+Bodyweight Full Planche,Expert,Abdominals,,1.0,,0.0,Unsorted*,Other,Calisthenics
 Cable Quadruped Hip Abduction,Novice,Abductors,Cable,1.0,,0.0,Lower Body,Other,Unsorted*
 Barbell Reverse Grip Bench Press,Intermediate,Chest,Barbell,1.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Double Kettlebell Turkish Get Up,Advanced,Abdominals,Kettlebell,2.0,,0.0,Full Body,Other,Grinds
@@ -969,7 +966,7 @@ Single Arm Plate Teacup,Intermediate,Shoulders,Weight Plate,1.0,,0.0,Upper Body,
 Double Kettlebell Bottoms Up Turkish Sit Up,Intermediate,Abdominals,Kettlebell,2.0,,0.0,Midsection,Other,Unsorted*
 Superband Assisted Nordic Hamstring Curl,Intermediate,Hamstrings,Superband,1.0,,0.0,Lower Body,Pull,Unsorted*
 Double Kettlebell Bottoms Up Turkish Sit Up to Z Press,Intermediate,Abdominals,Kettlebell,2.0,,0.0,Midsection,Push,Bodybuilding
-Bodyweight Alternating Shin Box Hip Extension,Intermediate,Glutes,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Mobility
+Bodyweight Alternating Shin Box Hip Extension,Intermediate,Glutes,,1.0,,0.0,Lower Body,Unsorted*,Mobility
 Single Arm Kettlebell Turkish Sit Up to Z Press,Intermediate,Abdominals,Kettlebell,1.0,,0.0,Midsection,Push,Bodybuilding
 Single Arm Kettlebell Bottoms Up Turkish Sit Up to Z Press,Intermediate,Abdominals,Kettlebell,1.0,,0.0,Midsection,Push,Bodybuilding
 Ring Chin Up,Intermediate,Biceps,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
@@ -985,7 +982,7 @@ Single Arm Dumbbell Suitcase Carry,Beginner,Forearms,Dumbbell,1.0,,0.0,Full Body
 Double Dumbbell Glute Bridge Isometric Bench Press,Novice,Chest,Dumbbell,2.0,Bench (Flat),1.0,Full Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Dead Clean to Overhead Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
 Double Kettlebell Bottoms Up Dead Clean to Thruster,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
-Bodyweight Foot Elevated Cossack Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Foot Elevated Cossack Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Dead Clean to Alternating Rotational Overhead Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
 Barbell Overhead Foot Elevated Cossack Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Landmine Split Squat Isometric Oblique Twist,Advanced,Abdominals,Landmine,1.0,,0.0,Midsection,Other,Balance
@@ -1023,7 +1020,7 @@ Single Arm Macebell 360,Intermediate,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull
 Double Kettlebell Front Rack Pivot Split Squat,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Front Rack Pivot Split Squat,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Overhead Pivot Split Squat,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Cyclist Squat,Beginner,Quadriceps,Bodyweight,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
+Bodyweight Cyclist Squat,Beginner,Quadriceps,,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Kettlebell Half Kneeling Rotational Swing,Intermediate,Abdominals,Kettlebell,1.0,,0.0,Full Body,Other,Ballistics
 Double Kettlebell Clean to Push Jerk,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Ballistics
 Alternating Single Arm Kettlebell Clean to Push Jerk,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
@@ -1157,12 +1154,12 @@ Clubbell Alternating Inside Pendulum to Inside Pullover,Intermediate,Back,Clubbe
 Single Arm Kettlebell Bottoms Up Arm Bar,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Other,Mobility
 Single Arm Kettlebell Bottoms Up Arm Bar Rotation,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Other,Mobility
 Double Kettlebell Push Up,Intermediate,Chest,Kettlebell,2.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Pseudo Planche Lean,Intermediate,Abdominals,Bodyweight,1.0,,0.0,Upper Body,Other,Calisthenics
+Bodyweight Pseudo Planche Lean,Intermediate,Abdominals,,1.0,,0.0,Upper Body,Other,Calisthenics
 Macebell 360 to Single Arm 360,Intermediate,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull,Ballistics
 Tire Feet Elevated Decline Push Up,Intermediate,Chest,Tire,1.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Bench Feet Elevated Decline Push Up,Intermediate,Chest,Bodyweight,1.0,Bench (Flat),1.0,Upper Body,Push,Calisthenics
-Bodyweight Box Feet Elevated Decline Push Up,Intermediate,Chest,Bodyweight,1.0,Plyo Box,1.0,Upper Body,Push,Calisthenics
-Bodyweight Feet Elevated Pike Push Up,Intermediate,Shoulders,Bodyweight,1.0,Plyo Box,1.0,Upper Body,Push,Calisthenics
+Bodyweight Bench Feet Elevated Decline Push Up,Intermediate,Chest,,1.0,Bench (Flat),1.0,Upper Body,Push,Calisthenics
+Bodyweight Box Feet Elevated Decline Push Up,Intermediate,Chest,,1.0,Plyo Box,1.0,Upper Body,Push,Calisthenics
+Bodyweight Feet Elevated Pike Push Up,Intermediate,Shoulders,,1.0,Plyo Box,1.0,Upper Body,Push,Calisthenics
 Tire Feet Elevated Pike Push Up,Intermediate,Shoulders,Tire,1.0,,0.0,Upper Body,Push,Calisthenics
 Double Kettlebell Bottoms Up Push Jerk,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Unsorted*
 Alternating Double Kettlebell Bottoms Up Push Jerk,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Unsorted*
@@ -1304,9 +1301,9 @@ Heavy Sandbag Alternating Over the Shoulder,Intermediate,Glutes,Heavy Sandbag,1.
 Heavy Sandbag Bear Hug Walking Lunge,Intermediate,Quadriceps,Heavy Sandbag,1.0,,0.0,Full Body,Other,Unsorted*
 Double Dumbbell Turkish Get Up,Advanced,Abdominals,Dumbbell,2.0,,0.0,Full Body,Other,Grinds
 Single Arm Macebell Reverse Mill,Intermediate,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull,Ballistics
-Bodyweight Hand Assisted Sissy Squat,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Sissy Squat,Advanced,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Hand Assisted Knee Over Toe Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Sissy Squat,Novice,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Sissy Squat,Advanced,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Knee Over Toe Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Superband Sissy Squat,Intermediate,Quadriceps,Superband,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Front Rack Walking Lunge,Novice,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Dumbbell Suitcase Walking Lunge,Novice,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1320,10 +1317,10 @@ Macebell Mill,Intermediate,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull,Ballistic
 Double Clubbell Order Walking Lunge,Novice,Quadriceps,Clubbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Clubbell Order Walking Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Clubbell Order Walking Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Box Jump,Intermediate,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
-Bodyweight Lateral Box Jump,Intermediate,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
-Bodyweight Alternating Lateral Box Jump,Intermediate,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
-Bodyweight Straddle Planche,Expert,Abdominals,Bodyweight,1.0,,0.0,Unsorted*,Other,Calisthenics
+Bodyweight Box Jump,Intermediate,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
+Bodyweight Lateral Box Jump,Intermediate,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
+Bodyweight Alternating Lateral Box Jump,Intermediate,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
+Bodyweight Straddle Planche,Expert,Abdominals,,1.0,,0.0,Unsorted*,Other,Calisthenics
 Macebell Single Leg Offset Bent Over Row,Intermediate,Back,Macebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Single Arm Kettlebell Bird Dog Row,Intermediate,Back,Kettlebell,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Double Kettlebell Half Snatch to Front Rack Squat,Advanced,Shoulders,Kettlebell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
@@ -1408,9 +1405,6 @@ Bar Tuck Back Lever,Advanced,Abdominals,Pull Up Bar,1.0,,0.0,Unsorted*,Other,Cal
 Double Kettlebell Bottoms Up Seesaw Overhead Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Unsorted*
 Bar Tuck Front Lever,Advanced,Abdominals,Pull Up Bar,1.0,,0.0,Unsorted*,Other,Calisthenics
 Double Kettlebell Bottoms Up Half Kneeling Seesaw Overhead Press,Intermediate,Shoulders,Kettlebell,2.0,,0.0,Upper Body,Push,Bodybuilding
-Ring Full Planche Push Up,Grand Master,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
-Ring Straddle Planche Push Up,Grand Master,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Fingertip Full Planche Push Up,Grand Master,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Wall Supported Handstand Push Up,Expert,Shoulders,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Ring Grip Push Up,Expert,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Barbell Overhead Press,Expert,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
@@ -1418,14 +1412,14 @@ Ring Shoulder Stand,Expert,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Other,C
 Ring Strap Handstand,Expert,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Other,Calisthenics
 Ring Handstand,Expert,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Other,Calisthenics
 Ring Strap Handstand Push Up,Expert,Shoulders,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Straddle Press Handstand,Expert,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Alternating Step Up,Novice,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
-Bodyweight Step Up,Novice,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
+Bodyweight Straddle Press Handstand,Expert,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Alternating Step Up,Novice,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
+Bodyweight Step Up,Novice,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Calisthenics
 Macebell Order Cossack Squat,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Alternating Cossack Squat,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Low Switch Cossack Squat,Intermediate,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Foot Elevated Cossack Squat,Intermediate,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Pike Press Handstand,Expert,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Pike Press Handstand,Expert,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette L Sit to Straddle Press Handstand,Expert,Shoulders,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Parallette L Sit to Pike Press Handstand,Expert,Shoulders,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Heavy Sandbag Clean to Push Press,Intermediate,Shoulders,Heavy Sandbag,1.0,,0.0,Full Body,Push,Unsorted*
@@ -1540,9 +1534,9 @@ Double Dumbbell Front Rack Cyclist Squat,Novice,Quadriceps,Dumbbell,2.0,Slant Bo
 Double Dumbbell Overhead Cyclist Squat,Intermediate,Quadriceps,Dumbbell,2.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Single Arm Dumbbell Front Rack Cyclist Squat,Novice,Quadriceps,Dumbbell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Single Arm Dumbbell Overhead Cyclist Squat,Intermediate,Quadriceps,Dumbbell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
-Bodyweight Alternating Lateral Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Alternating Forward Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Alternating Reverse Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Alternating Lateral Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Alternating Forward Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Alternating Reverse Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Cyclist Squat,Novice,Quadriceps,Macebell,1.0,Slant Board,1.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Overhead Squat,Intermediate,Quadriceps,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Dumbbell Overhead Squat,Intermediate,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1572,7 +1566,7 @@ Plate Overhead Alternating Forward Lunge,Intermediate,Quadriceps,Weight Plate,1.
 Plate Overhead Alternating Reverse Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Single Leg Standing Bent Knee Overhead Press,Expert,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Balance
 Single Arm Barbell Single Leg Standing Bent Knee Contralateral Overhead Press,Expert,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Balance
-Bodyweight Tuck Planche,Advanced,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Tuck Planche,Advanced,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Single Arm Barbell Single Leg Standing Bent Knee Ipsilateral Overhead Press,Expert,Shoulders,Barbell,1.0,,0.0,Upper Body,Push,Balance
 Double Kettlebell Push Up to L Sit,Expert,Chest,Kettlebell,2.0,,0.0,Upper Body,Push,Calisthenics
 Bar L Sit Hang,Intermediate,Abdominals,Pull Up Bar,1.0,,0.0,Midsection,Other,Calisthenics
@@ -1581,7 +1575,7 @@ Single Arm Bar L Sit Hang,Advanced,Abdominals,Pull Up Bar,1.0,,0.0,Midsection,Ot
 Single Arm Ring L Sit Hang,Advanced,Abdominals,Gymnastic Rings,1.0,,0.0,Midsection,Other,Calisthenics
 Single Arm Kettlebell Suitcase Alternating Reverse Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Parallette L Sit Flutter Kicks,Advanced,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Single Arm Contralateral Single Leg Push Up,Expert,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Single Arm Contralateral Single Leg Push Up,Expert,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Tuck Planche Push Up,Expert,Chest,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Ring Maltese Push Up,Expert,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
 Ring Tuck Planche Push Up,Expert,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
@@ -1593,12 +1587,12 @@ Bar L Sit Archer Pull Up,Expert,Back,Pull Up Bar,1.0,,0.0,Upper Body,Pull,Calist
 Bar Straddle Front Lever Pull Up,Expert,Back,Pull Up Bar,1.0,,0.0,Upper Body,Pull,Calisthenics
 Bar Strict Muscle Up,Expert,Back,Pull Up Bar,1.0,,0.0,Upper Body,Push & Pull,Calisthenics
 Bar Tuck Front Lever Pull Up,Expert,Back,Pull Up Bar,1.0,,0.0,Upper Body,Pull,Calisthenics
-Bodyweight Tuck Planche Push Up,Expert,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Tuck Planche Push Up,Expert,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Double Clubbell Asynchronous Mill,Expert,Shoulders,Clubbell,2.0,,0.0,Upper Body,Pull,Ballistics
 Clubbell Order Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
 Clubbell Order Alternating Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
-Bodyweight L Sit,Expert,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Single Arm L Sit,Master,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight L Sit,Expert,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Single Arm L Sit,Master,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Alternating Single Arm Kettlebell Low Hold Alternating Lateral Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Front Rack Alternating Lateral Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Front Rack Alternating Forward Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1612,12 +1606,12 @@ Single Arm Macebell Order Low Switch Cossack Squat,Intermediate,Quadriceps,Maceb
 Single Arm Macebell Order Alternating Cossack Squat,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Macebell Order Foot Elevated Contralateral Cossack Squat,Intermediate,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Stability Ball Feet Elevated Glute Bridge,Novice,Glutes,Stability Ball,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Mountain Climber,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Mountain Climber,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Suspension Feet Elevated Mountain Climber,Intermediate,Abdominals,Suspension Trainer,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Straddle L Sit,Expert,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Straddle L Sit,Expert,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Single Arm Kettlebell Bottoms Up Front Rack Alternating Reverse Lunge,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Cossack Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Wall Facing Handstand Push Up,Expert,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Cossack Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Wall Facing Handstand Push Up,Expert,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Ring Pelican Push Up,Expert,Chest,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
 Barbell Back Rack Alternating Step Up,Intermediate,Quadriceps,Barbell,1.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
 Barbell Front Rack Alternating Step Up,Intermediate,Quadriceps,Barbell,1.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
@@ -1689,10 +1683,10 @@ Barbell Back Rack Carry,Intermediate,Abdominals,Barbell,1.0,,0.0,Full Body,Other
 Single Arm Barbell Suitcase Carry,Intermediate,Forearms,Barbell,1.0,,0.0,Full Body,Other,Unsorted*
 Suspension Bulgarian Split Squat,Intermediate,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Bodybuilding
 Suspension Bulgarian Split Squat Jump,Advanced,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Plyometric
-Bodyweight Lateral Bear Crawl,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Animal Flow
-Bodyweight Step Up Jump,Intermediate,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
+Bodyweight Lateral Bear Crawl,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Animal Flow
+Bodyweight Step Up Jump,Intermediate,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
 Tire Step Up Jump,Intermediate,Quadriceps,Tire,1.0,,0.0,Lower Body,Push,Plyometric
-Bodyweight Alternating Step Up Jump,Intermediate,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
+Bodyweight Alternating Step Up Jump,Intermediate,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Plyometric
 Tire Alternating Step Up Jump,Intermediate,Quadriceps,Tire,1.0,,0.0,Lower Body,Push,Plyometric
 Barbell Power Clean to Push Press,Expert,Shoulders,Barbell,1.0,,0.0,Full Body,Push & Pull,Olympic Weightlifting
 Double Dumbbell Close Grip Bench Press,Beginner,Triceps,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
@@ -1707,7 +1701,7 @@ Clubbell Side to Side Swing,Intermediate,Abdominals,Clubbell,1.0,,0.0,Full Body,
 Double Dumbbell Close Grip Incline Bench Press,Beginner,Triceps,Dumbbell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Cable Rope Tricep Pushdown,Beginner,Triceps,Cable,1.0,,0.0,Upper Body,Push,Bodybuilding
 Barbell Incline Push Up,Beginner,Chest,Barbell,1.0,,1.0,Upper Body,Push,Calisthenics
-Bodyweight Kneeling Push Up,Beginner,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Kneeling Push Up,Beginner,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Suspension Push Up,Beginner,Chest,Suspension Trainer,1.0,,0.0,Upper Body,Push,Unsorted*
 Suspension Chest Fly,Beginner,Chest,Suspension Trainer,1.0,,0.0,Upper Body,Push,Unsorted*
 Stability Ball Double Dumbbell Chest Fly,Beginner,Chest,Stability Ball,1.0,Dumbbell,2.0,Upper Body,Push,Unsorted*
@@ -1729,12 +1723,12 @@ Clubbell Order Feet Elevated Calf Raise,Novice,Calves,Clubbell,1.0,,0.0,Lower Bo
 Clubbell Order Calf Raise,Beginner,Calves,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Clubbell Order Feet Elevated Calf Raise,Novice,Calves,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Clubbell Order Calf Raise,Beginner,Calves,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Hand Assisted Feet Elevated Calf Raise,Beginner,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Hand Assisted Calf Raise,Beginner,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Calf Raise,Beginner,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Hand Assisted Foot Elevated Single Leg Calf Raise,Novice,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Hand Assisted Single Leg Calf Raise,Novice,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Single Leg Calf Raise,Novice,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Feet Elevated Calf Raise,Beginner,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Calf Raise,Beginner,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Calf Raise,Beginner,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Foot Elevated Single Leg Calf Raise,Novice,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Hand Assisted Single Leg Calf Raise,Novice,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Single Leg Calf Raise,Novice,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Front Rack Feet Elevated Calf Raise,Intermediate,Calves,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Kettlebell Goblet Alternating Reverse Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell L Sit Flutter Kicks,Advanced,Abdominals,Kettlebell,2.0,,0.0,Midsection,Other,Calisthenics
@@ -1742,7 +1736,7 @@ Double Dumbbell Front Rack Feet Elevated Calf Raise,Novice,Calves,Dumbbell,2.0,,
 Double Dumbbell Front Rack Calf Raise,Beginner,Calves,Dumbbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Feet Elevated Calf Raise,Intermediate,Calves,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Tire Mountain Climber,Novice,Abdominals,Tire,1.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Wall Supported Tibialis Raise,Beginner,Shins,Bodyweight,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Wall Supported Tibialis Raise,Beginner,Shins,,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Cable Seated Tibialis Raise,Novice,Shins,Cable,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Cable Seated Single Leg Tibialis Raise,Novice,Shins,Cable,1.0,,0.0,Lower Body,Unsorted*,Unsorted*
 Kettlebell Goblet Walking Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1754,8 +1748,8 @@ Barbell Seated Feet Elevated Calf Raise,Novice,Calves,Barbell,1.0,Bench (Flat),1
 Kettlebell Horn Grip Alternating Forward Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Tire Leg Press,Intermediate,Quadriceps,Tire,1.0,,0.0,Lower Body,Push,Bodybuilding
 Cable Split Squat Isometric Pallof Press,Intermediate,Abdominals,Cable,1.0,,0.0,Full Body,Other,Balance
-Bodyweight Split Squat Isometric Calf Raise,Intermediate,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Balance
-Bodyweight Split Squat Isometric Foot Elevated Calf Raise,Intermediate,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Balance
+Bodyweight Split Squat Isometric Calf Raise,Intermediate,Calves,,1.0,,0.0,Lower Body,Push,Balance
+Bodyweight Split Squat Isometric Foot Elevated Calf Raise,Intermediate,Calves,,1.0,,0.0,Lower Body,Push,Balance
 Double Dumbbell Suitcase Split Squat Isometric Calf Raise,Advanced,Calves,Dumbbell,2.0,,0.0,Lower Body,Push,Balance
 Double Dumbbell Suitcase Split Squat Isometric Foot Elevated Calf Raise,Advanced,Calves,Dumbbell,2.0,,0.0,Lower Body,Push,Balance
 Kettlebell Horn Grip Alternating Reverse Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1770,12 +1764,12 @@ Double Dumbbell Front Rack Split Squat Isometric Calf Raise,Advanced,Calves,Dumb
 Double Dumbbell Front Rack Split Squat Isometric Foot Elevated Calf Raise,Advanced,Calves,Dumbbell,2.0,,0.0,Lower Body,Push,Balance
 Single Arm Kettlebell Front Rack Low Switch Cossack Squat,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Front Rack Foot Elevated Contralateral Cossack Squat,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Jump Squat,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight Jump Squat,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Plyometric
 Double Dumbbell Suitcase Alternating Step Up,Novice,Quadriceps,Dumbbell,2.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Front Rack Step Up,Novice,Quadriceps,Dumbbell,2.0,Plyo Box,1.0,Lower Body,Push,Bodybuilding
 Cable V Grip Seated Low Row,Beginner,Back,Cable,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Resistance Band Half Kneeling Face Pull,Beginner,Shoulders,Resistance Band,1.0,,0.0,Upper Body,Pull,Unsorted*
-Bodyweight Prone Cobra,Beginner,Back,Bodyweight,1.0,,0.0,Upper Body,Unsorted*,Postural
+Bodyweight Prone Cobra,Beginner,Back,,1.0,,0.0,Upper Body,Unsorted*,Postural
 Barbell Hang Power Snatch,Advanced,Glutes,Barbell,1.0,,0.0,Full Body,Unsorted*,Olympic Weightlifting
 Barbell Hang Squat Snatch,Advanced,Quadriceps,Barbell,1.0,,0.0,Full Body,Unsorted*,Olympic Weightlifting
 Double Dumbbell Seated Reverse Fly,Beginner,Shoulders,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
@@ -1785,9 +1779,9 @@ Alternating Double Dumbbell Front Raise,Beginner,Shoulders,Dumbbell,2.0,,0.0,Upp
 Cable Wide Grip Lat Pulldown,Beginner,Back,Cable,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Cable Reverse Grip Lat Pulldown,Beginner,Back,Cable,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
 Cable V Grip Lat Pulldown,Beginner,Back,Cable,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
-Bodyweight Bicycle Crunch,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Broad Jump,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
-Bodyweight Forearm Plank,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Bicycle Crunch,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Broad Jump,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight Forearm Plank,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Parallette Plank,Novice,Abdominals,Parallette Bars,2.0,,0.0,Midsection,Other,Calisthenics
 Double Clubbell Shoulder Park Squat,Novice,Quadriceps,Clubbell,2.0,,0.0,Lower Body,Push,Unsorted*
 Double Clubbell Clean to Shoulder Park Squat,Intermediate,Quadriceps,Clubbell,2.0,,0.0,Full Body,Unsorted*,Unsorted*
@@ -1802,15 +1796,15 @@ Double Dumbbell Incline Bench Press,Beginner,Chest,Dumbbell,2.0,Bench (Incline),
 Barbell Power Jerk,Intermediate,Shoulders,Barbell,1.0,,0.0,Full Body,Push,Olympic Weightlifting
 Barbell Squat Jerk,Advanced,Quadriceps,Barbell,1.0,,0.0,Full Body,Push,Olympic Weightlifting
 Double Kettlebell Bent Over Row,Beginner,Back,Kettlebell,2.0,,0.0,Upper Body,Pull,Bodybuilding
-Bodyweight Seated Wall Angels,Beginner,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Unsorted*
+Bodyweight Seated Wall Angels,Beginner,Shoulders,,1.0,,0.0,Upper Body,Push,Unsorted*
 Parallette Kneeling Close Grip Push Up,Beginner,Triceps,Parallette Bars,1.0,,0.0,Upper Body,Push,Calisthenics
 Double Kettlebell Shrug,Beginner,Trapezius,Kettlebell,2.0,,0.0,Upper Body,Pull,Bodybuilding
-Bodyweight Alternating Split Squat Jump,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight Alternating Split Squat Jump,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Plyometric
 Suspension Y Raise,Beginner,Shoulders,Suspension Trainer,1.0,,0.0,Upper Body,Pull,Unsorted*
-Bodyweight Standing Wall Angels,Beginner,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Unsorted*
+Bodyweight Standing Wall Angels,Beginner,Shoulders,,1.0,,0.0,Upper Body,Push,Unsorted*
 Double Kettlebell Mountain Climber,Novice,Abdominals,Kettlebell,2.0,,0.0,Midsection,Other,Calisthenics
-Bodyweight Split Squat Jump,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
-Bodyweight Duck Walk,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Animal Flow
+Bodyweight Split Squat Jump,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight Duck Walk,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Animal Flow
 Barbell Front Rack Split Squat,Novice,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Overhead Split Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Dumbbell Split Jerk,Intermediate,Shoulders,Dumbbell,2.0,,0.0,Full Body,Push,Unsorted*
@@ -1818,8 +1812,8 @@ Suspension Reverse Fly,Beginner,Shoulders,Suspension Trainer,1.0,,0.0,Upper Body
 Double Dumbbell Decline Bench Press,Beginner,Chest,Dumbbell,2.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
 Single Arm Dumbbell Split Jerk,Intermediate,Shoulders,Dumbbell,1.0,,0.0,Full Body,Push,Unsorted*
 Single Arm Kettlebell Bottoms Up Snatch,Advanced,Glutes,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
-Bodyweight Copenhagen Plank Side Raise,Intermediate,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
-Bodyweight Copenhagen Plank with Leg Lift,Intermediate,Adductors,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Copenhagen Plank Side Raise,Intermediate,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
+Bodyweight Copenhagen Plank with Leg Lift,Intermediate,Adductors,,1.0,Bench (Flat),1.0,Lower Body,Other,Unsorted*
 Double Dumbbell Chest Fly,Beginner,Chest,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Decline Bench Chest Fly,Beginner,Chest,Dumbbell,2.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
 Double Kettlebell Suitcase Calf Raise,Beginner,Calves,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1831,7 +1825,7 @@ Dumbbell Crush Grip Overhead Press,Beginner,Shoulders,Dumbbell,1.0,,0.0,Upper Bo
 Dumbbell Crush Grip Floor Press,Beginner,Chest,Dumbbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Dumbbell Crush Grip Overhead Tricep Extension,Beginner,Triceps,Dumbbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Double Kettlebell Suitcase Split Squat Isometric Calf Raise,Advanced,Calves,Kettlebell,2.0,,0.0,Lower Body,Push,Balance
-Bodyweight Single Leg Hip Thrust,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Single Leg Hip Thrust,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Stability Ball Single Leg Hip Thrust,Novice,Glutes,Stability Ball,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Double Kettlebell Suitcase Split Squat Isometric Foot Elevated Calf Raise,Advanced,Calves,Kettlebell,2.0,,0.0,Lower Body,Push,Balance
 Single Arm Kettlebell Suitcase Hand Assisted Ipsilateral Foot Elevated Single Leg Calf Raise,Novice,Calves,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1840,12 +1834,12 @@ Cable V Grip Seated Floor Lat Pulldown,Beginner,Back,Cable,1.0,,0.0,Upper Body,P
 Double Kettlebell Front Rack Split Squat Isometric Foot Elevated Calf Raise,Advanced,Calves,Kettlebell,2.0,,0.0,Lower Body,Push,Balance
 Battle Rope Alternating Wave,Beginner,Biceps,Battle Ropes,1.0,,0.0,Upper Body,Other,Unsorted*
 Cable Rope Tall Kneeling Tricep Pushdown,Beginner,Triceps,Cable,1.0,,0.0,Upper Body,Push,Bodybuilding
-Bodyweight Feet Elevated Calf Raise,Beginner,Calves,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Feet Elevated Calf Raise,Beginner,Calves,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Stability Ball Reverse Hyperextension,Novice,Glutes,Stability Ball,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Frog Reverse Hyperextension,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Reverse Hyperextension,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Frog Reverse Hyperextension,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
+Bodyweight Reverse Hyperextension,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Cable Rope Tall Kneeling Low to High Chop,Intermediate,Abdominals,Cable,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight V Up,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight V Up,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Slider Barbell Front Rack Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Barbell,1.0,Lower Body,Push,Bodybuilding
 Slider Barbell Back Rack Reverse Lunge,Intermediate,Quadriceps,Sliders,1.0,Barbell,1.0,Lower Body,Push,Bodybuilding
 Slider Reverse Lunge,Beginner,Quadriceps,Sliders,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1913,8 +1907,8 @@ Resistance Band Chest Fly,Beginner,Chest,Resistance Band,1.0,,0.0,Upper Body,Pus
 Battle Rope Power Slam to Burpee,Intermediate,Chest,Battle Ropes,1.0,,0.0,Full Body,Other,Plyometric
 Resistance Band Low Row,Beginner,Back,Resistance Band,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Battle Rope Alternating Reverse Lunge Alternating Wave,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Unsorted*
-Bodyweight Split Squat Isometric Hold,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Other,Balance
-Bodyweight Split Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Unsorted*
+Bodyweight Split Squat Isometric Hold,Novice,Quadriceps,,1.0,,0.0,Lower Body,Other,Balance
+Bodyweight Split Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Unsorted*
 Barbell Frog Pump,Novice,Glutes,Barbell,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Barbell Front Rack Calf Raise,Novice,Calves,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Back Rack Calf Raise,Novice,Calves,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -1936,7 +1930,7 @@ Battle Rope Alternating Side Slam,Novice,Abdominals,Battle Ropes,1.0,,0.0,Midsec
 Battle Rope Jump Squat Alternating Wave,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Plyometric
 Battle Rope In and Out Jump Squat Power Slam,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Plyometric
 Battle Rope In and Out Jump Squat Alternating Wave,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Plyometric
-Bodyweight In and Out Jump Squat,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Plyometric
+Bodyweight In and Out Jump Squat,Novice,Quadriceps,,1.0,,0.0,Lower Body,Push,Plyometric
 Miniband Thigh In and Out Jump Squat,Novice,Abductors,Miniband,1.0,,0.0,Lower Body,Push,Plyometric
 Miniband Ankle In and Out Jump Squat,Intermediate,Abductors,Miniband,1.0,,0.0,Lower Body,Push,Plyometric
 Resistance Band Alternating Hammer Curl,Beginner,Biceps,Resistance Band,1.0,,0.0,Upper Body,Pull,Bodybuilding
@@ -1993,7 +1987,7 @@ Single Arm Kettlebell Overhead Alternating Cossack Squat,Intermediate,Quadriceps
 Single Arm Kettlebell Overhead Low Switch Cossack Squat,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Tire Incline Push Up,Beginner,Chest,Tire,1.0,,0.0,Upper Body,Push,Calisthenics
 Double Dumbbell Close Grip Decline Bench Press,Beginner,Triceps,Dumbbell,2.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
-Bodyweight Eccentric Push Up,Beginner,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Eccentric Push Up,Beginner,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Double Dumbbell Bicep Curl,Beginner,Biceps,Dumbbell,2.0,,0.0,Upper Body,Pull,Bodybuilding
 Cable Knee Hover Quadruped Fire Hydrant,Advanced,Glutes,Cable,1.0,,0.0,Lower Body,Other,Unsorted*
 Double Dumbbell Incline Bench Bicep Curl,Beginner,Biceps,Dumbbell,2.0,Bench (Incline),1.0,Upper Body,Pull,Bodybuilding
@@ -2068,7 +2062,7 @@ Battle Rope Outward Circle,Beginner,Shoulders,Battle Ropes,1.0,,0.0,Upper Body,O
 Double Kettlebell Tall Kneeling Shrug,Beginner,Trapezius,Kettlebell,2.0,,0.0,Upper Body,Pull,Bodybuilding
 Alternating Double Dumbbell Bent Over Row,Beginner,Back,Dumbbell,2.0,,0.0,Upper Body,Pull,Bodybuilding
 Battle Rope Alternating Cossack Squat Alternating Wave,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Unsorted*
-Bodyweight Low Switch Cossack Squat,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Low Switch Cossack Squat,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Zercher Alternating Cossack Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Zercher Cossack Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Barbell Zercher Low Switch Cossack Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2102,13 +2096,13 @@ Sandbag Front Rack Bulgarian Split Squat,Novice,Quadriceps,Sandbag,1.0,Bench (Fl
 Sandbag Back Rack Bulgarian Split Squat,Novice,Quadriceps,Sandbag,1.0,Bench (Flat),1.0,Lower Body,Push,Bodybuilding
 Plate Russian Twist,Novice,Abdominals,Weight Plate,1.0,,0.0,Midsection,Other,Unsorted*
 Plate Feet Elevated Russian Twist,Novice,Abdominals,Weight Plate,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Feet Elevated Russian Twist,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Russian Twist,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Feet Elevated Russian Twist,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Russian Twist,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Landmine Russian Twist,Novice,Abdominals,Landmine,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Alternating Hawaiian Squat,Advanced,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
-Bodyweight Hawaiian Squat,Advanced,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Alternating Hawaiian Squat,Advanced,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Hawaiian Squat,Advanced,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Suspension Hawaiian Squat,Intermediate,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Unsorted*
-Bodyweight Hand Assisted Hawaiian Squat,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Hand Assisted Hawaiian Squat,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Double Kettlebell Incline Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Single Arm Kettlebell Incline Bench Press,Beginner,Chest,Kettlebell,1.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Alternating Double Kettlebell Incline Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
@@ -2134,7 +2128,7 @@ Single Arm Kettlebell Bench Press,Beginner,Chest,Kettlebell,1.0,Bench (Flat),1.0
 Dumbbell Goblet Pistol Squat,Advanced,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Balance
 Dumbbell Goblet Alternating Pistol Squat,Advanced,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Balance
 Alternating Double Kettlebell Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
-Bodyweight Alternating Pistol Squat,Advanced,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Alternating Pistol Squat,Advanced,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Barbell Zombie Pistol Squat,Expert,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Balance
 Barbell Front Rack Pistol Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Balance
 Barbell Back Rack Pistol Squat,Advanced,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Balance
@@ -2210,7 +2204,7 @@ Alternating Single Arm Dumbbell Hang Snatch,Intermediate,Glutes,Dumbbell,1.0,,0.
 Miniband Kneeling Side Plank Clamshell,Novice,Glutes,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Miniband Thigh Side Plank Hip Abduction,Novice,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
 Stability Ball Feet Elevated Russian Twist,Novice,Abdominals,Stability Ball,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Alternating Single Leg V Up,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Alternating Single Leg V Up,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Battle Rope Alternating Lateral Lunge Alternating Wave,Intermediate,Quadriceps,Battle Ropes,1.0,,0.0,Full Body,Other,Unsorted*
 Single Arm Kettlebell Tall Kneeling Shrug,Beginner,Trapezius,Kettlebell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Single Arm Kettlebell Seated Shrug,Beginner,Trapezius,Kettlebell,1.0,Bench (Flat),1.0,Upper Body,Pull,Bodybuilding
@@ -2226,7 +2220,7 @@ Double Dumbbell Seesaw Bench Press,Beginner,Chest,Dumbbell,2.0,Bench (Flat),1.0,
 Bulgarian Bag Dead Squat Clean,Intermediate,Quadriceps,Bulgarian Bag,1.0,,0.0,Full Body,Unsorted*,Unsorted*
 Double Dumbbell Seesaw Incline Bench Press,Beginner,Chest,Dumbbell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Seesaw Decline Bench Press,Beginner,Chest,Dumbbell,2.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
-Bodyweight Hand Assisted Pistol Squat,Intermediate,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Hand Assisted Pistol Squat,Intermediate,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Double Kettlebell Suitcase Alternating Curtsy Lunge,Novice,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Overhead Alternating Curtsy Lunge,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Front Rack Alternating Curtsy Lunge,Intermediate,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2249,7 +2243,7 @@ Clubbell Order Alternating Curtsy Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lowe
 Double Clubbell Order Alternating Curtsy Lunge,Novice,Quadriceps,Clubbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Clubbell Order Alternating Curtsy Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Alternating Curtsy Lunge,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Alternating Curtsy Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Alternating Curtsy Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Heavy Sandbag Bear Hug Alternating Curtsy Lunge,Intermediate,Quadriceps,Heavy Sandbag,1.0,,0.0,Lower Body,Push,Unsorted*
 Heavy Sandbag Shoulder Alternating Curtsy Lunge,Intermediate,Quadriceps,Heavy Sandbag,1.0,,0.0,Lower Body,Push,Unsorted*
 Plate Overhead Alternating Curtsy Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2261,17 +2255,17 @@ Double Kettlebell Seesaw Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Flat),
 Double Kettlebell Seesaw Incline Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Incline),1.0,Upper Body,Push,Bodybuilding
 Double Kettlebell Tuck L Sit,Intermediate,Abdominals,Kettlebell,2.0,,0.0,Midsection,Other,Calisthenics
 Double Kettlebell Seesaw Decline Bench Press,Beginner,Chest,Kettlebell,2.0,Bench (Decline),1.0,Upper Body,Push,Bodybuilding
-Bodyweight Hollow Body Hold with Flutter Kicks,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Hollow Body Hold with Flutter Kicks,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
 Double Kettlebell Seesaw Floor Press,Beginner,Chest,Kettlebell,2.0,,0.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Seesaw Overhead Press,Beginner,Shoulders,Dumbbell,2.0,,0.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Arnold Press,Beginner,Shoulders,Dumbbell,2.0,,0.0,Upper Body,Push,Bodybuilding
 Alternating Double Dumbbell Arnold Press,Beginner,Shoulders,Dumbbell,2.0,,0.0,Upper Body,Push,Bodybuilding
 Double Dumbbell Seated Arnold Press,Beginner,Shoulders,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
 Alternating Double Dumbbell Seated Arnold Press,Beginner,Shoulders,Dumbbell,2.0,Bench (Flat),1.0,Upper Body,Push,Bodybuilding
-Bodyweight Feet Elevated Frog Pump,Novice,Glutes,Bodyweight,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Feet Elevated Frog Pump,Novice,Glutes,,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Unsorted*
 Miniband Feet Elevated Frog Pump,Novice,Glutes,Miniband,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
 Miniband Feet Elevated Glute Bridge,Novice,Glutes,Miniband,1.0,Bench (Flat),1.0,Lower Body,Unsorted*,Bodybuilding
-Bodyweight Reverse Plank,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Calisthenics
+Bodyweight Reverse Plank,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Calisthenics
 Wall Ball Toss,Intermediate,Quadriceps,Wall Ball,1.0,,0.0,Full Body,Push,Unsorted*
 Wall Ball Feet Elevated Russian Twist Lateral Toss,Intermediate,Abdominals,Wall Ball,1.0,,0.0,Midsection,Other,Unsorted*
 Wall Ball Russian Twist Lateral Toss,Novice,Abdominals,Wall Ball,1.0,,0.0,Midsection,Other,Unsorted*
@@ -2413,8 +2407,8 @@ Superband Prone Bench Hamstring Curl,Novice,Hamstrings,Superband,1.0,Bench (Flat
 Single Arm Dumbbell Bicep Curl,Beginner,Biceps,Dumbbell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Single Arm Dumbbell Hammer Curl,Beginner,Biceps,Dumbbell,1.0,,0.0,Upper Body,Pull,Bodybuilding
 Ring Dips,Advanced,Triceps,Gymnastic Rings,2.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Single Arm Push Up,Advanced,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
-Bodyweight Aztec Push Up,Advanced,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Plyometric
+Bodyweight Single Arm Push Up,Advanced,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Aztec Push Up,Advanced,Chest,,1.0,,0.0,Upper Body,Push,Plyometric
 Slider Barbell Front Rack Curtsy Lunge,Intermediate,Quadriceps,Sliders,1.0,Barbell,1.0,Lower Body,Push,Bodybuilding
 Slider Double Kettlebell Front Rack Curtsy Lunge,Novice,Quadriceps,Sliders,1.0,Kettlebell,2.0,Lower Body,Push,Bodybuilding
 Slider Suspension Curtsy Lunge,Novice,Quadriceps,Sliders,1.0,Suspension Trainer,1.0,Lower Body,Push,Bodybuilding
@@ -2464,7 +2458,6 @@ Kettlebell Goblet Cyclist Squat,Novice,Quadriceps,Kettlebell,1.0,Slant Board,1.0
 Kettlebell Goblet Knee Over Toe Split Squat,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Kettlebell Goblet Foot Elevated Knee Over Toe Split Squat,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Dumbbell Goblet Walking Lunge,Novice,Quadriceps,Dumbbell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Ring Maltese,Grand Master,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Barbell Front Rack Curtsy Lunge,Intermediate,Quadriceps,Barbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Front Rack Curtsy Lunge,Novice,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Suspension Curtsy Lunge,Novice,Quadriceps,Suspension Trainer,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2493,7 +2486,7 @@ Clubbell Order Curtsy Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,
 Double Clubbell Order Curtsy Lunge,Novice,Quadriceps,Clubbell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Clubbell Order Contralateral Curtsy Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Curtsy Lunge,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Curtsy Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Calisthenics
+Bodyweight Curtsy Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Calisthenics
 Plate Overhead Curtsy Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
 Sandbag Front Rack Curtsy Lunge,Novice,Quadriceps,Sandbag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Sandbag Back Rack Curtsy Lunge,Novice,Quadriceps,Sandbag,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2508,8 +2501,8 @@ Single Arm Dumbbell Overhead Ipsilateral Curtsy Lunge,Intermediate,Quadriceps,Du
 Single Arm Clubbell Order Ipsilateral Curtsy Lunge,Novice,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Ring Archer Pull Up,Advanced,Back,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
 Barbell Single Leg Bent Knee Bicep Curl,Advanced,Biceps,Barbell,1.0,,0.0,Upper Body,Pull,Bodybuilding
-Bodyweight Freestanding Handstand,Advanced,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Other,Calisthenics
-Bodyweight Wall Eccentric Straddle Press Handstand,Advanced,Shoulders,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Freestanding Handstand,Advanced,Shoulders,,1.0,,0.0,Upper Body,Other,Calisthenics
+Bodyweight Wall Eccentric Straddle Press Handstand,Advanced,Shoulders,,1.0,,0.0,Upper Body,Push,Calisthenics
 Kettlebell Horn Grip Carry,Novice,Abdominals,Kettlebell,1.0,,0.0,Full Body,Other,Unsorted*
 Kettlebell Goblet Carry,Novice,Abdominals,Kettlebell,1.0,,0.0,Full Body,Other,Unsorted*
 Dumbbell Goblet Carry,Novice,Abdominals,Dumbbell,1.0,,0.0,Full Body,Other,Unsorted*
@@ -2579,7 +2572,7 @@ Single Ring L Sit Chin Up,Advanced,Biceps,Gymnastic Rings,1.0,,0.0,Upper Body,Pu
 Single Arm Kettlebell Bottoms Up Single Leg Standing Bent Knee Ipsilateral Overhead Press,Advanced,Shoulders,Kettlebell,1.0,,0.0,Upper Body,Push,Balance
 Ring Pelican Curl,Advanced,Biceps,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
 Ring Two Finger Chin Up,Advanced,Biceps,Gymnastic Rings,2.0,,0.0,Upper Body,Pull,Calisthenics
-Bodyweight Pseudo Planche Push Up,Advanced,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Pseudo Planche Push Up,Advanced,Chest,,1.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Pseudo Planche Push Up,Advanced,Chest,Parallette Bars,2.0,,0.0,Upper Body,Push,Calisthenics
 Parallette Single Leg Close Grip Push Up,Advanced,Triceps,Parallette Bars,1.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Macebell Single Leg Standing Bent Knee Contralateral 360,Advanced,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull,Balance
@@ -2629,7 +2622,7 @@ Double Kettlebell Glute Bridge Isometric Bench Press,Novice,Chest,Kettlebell,2.0
 Slider Archer Push Up,Advanced,Chest,Sliders,1.0,,0.0,Upper Body,Push,Unsorted*
 Suspension Archer Push Up,Advanced,Chest,Suspension Trainer,1.0,,0.0,Upper Body,Push,Unsorted*
 Superband Chaos Push Up,Advanced,Chest,Superband,1.0,,0.0,Upper Body,Push,Unsorted*
-Bodyweight Pivot Split Squat,Novice,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Pivot Split Squat,Novice,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Clean to Thruster,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Unsorted*
 Single Arm Kettlebell Clean to Push Press,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Single Arm Kettlebell Clean to Push Jerk,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
@@ -2724,8 +2717,8 @@ Double Clubbell Order Russian Step Up,Novice,Quadriceps,Clubbell,2.0,Plyo Box,1.
 Double Clubbell Order Alternating Russian Step Up,Novice,Quadriceps,Clubbell,2.0,Plyo Box,1.0,Lower Body,Push,Balance
 Single Arm Clubbell Order Contralateral Russian Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Single Arm Clubbell Order Ipsilateral Russian Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Balance
-Bodyweight Alternating Russian Step Up,Novice,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Balance
-Bodyweight Russian Step Up,Novice,Quadriceps,Bodyweight,1.0,Plyo Box,1.0,Lower Body,Push,Balance
+Bodyweight Alternating Russian Step Up,Novice,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Balance
+Bodyweight Russian Step Up,Novice,Quadriceps,,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Clubbell Order Russian Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Clubbell Order Alternating Russian Step Up,Novice,Quadriceps,Clubbell,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Barbell Back Rack Alternating Russian Step Up,Intermediate,Quadriceps,Barbell,1.0,Plyo Box,1.0,Lower Body,Push,Balance
@@ -2766,7 +2759,6 @@ Heavy Sandbag Bear Hug Alternating Step Up,Intermediate,Quadriceps,Heavy Sandbag
 Heavy Sandbag Bear Hug Russian Step Up,Intermediate,Quadriceps,Heavy Sandbag,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Heavy Sandbag Bear Hug Alternating Russian Step Up,Intermediate,Quadriceps,Heavy Sandbag,1.0,Plyo Box,1.0,Lower Body,Push,Balance
 Alternating Single Arm Macebell Reverse Mill,Advanced,Shoulders,Macebell,1.0,,0.0,Upper Body,Pull,Ballistics
-Ring Grip Straddle Planche,Grand Master,Abdominals,Gymnastic Rings,2.0,,0.0,Unsorted*,Other,Calisthenics
 Single Arm Kettlebell Dead Clean to Overhead Press,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Single Arm Kettlebell Dead Clean to Push Press,Intermediate,Shoulders,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Single Arm Kettlebell Clean to Front Rack Ipsilateral Reverse Lunge,Intermediate,Quadriceps,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
@@ -2809,7 +2801,7 @@ Single Arm Clubbell Order Contralateral Forward Lunge,Novice,Quadriceps,Clubbell
 Macebell Order Forward Lunge,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Overhead Forward Lunge,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Suitcase Contralateral Forward Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Forward Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Forward Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Bulgarian Bag Back Rack Forward Lunge,Novice,Quadriceps,Bulgarian Bag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Sandbag Front Rack Forward Lunge,Novice,Quadriceps,Sandbag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Plate Overhead Forward Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2837,7 +2829,7 @@ Clubbell Swing,Novice,Glutes,Clubbell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Macebell Half Battle Lunge,Intermediate,Quadriceps,Macebell,1.0,,0.0,Full Body,*Unsorted,*Unsorted
 Clubbell Order Pivot Split Squat,Intermediate,Quadriceps,Clubbell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Macebell Order Pivot Split Squat,Intermediate,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Plate Assisted Hip Airplane,Intermediate,Glutes,Bodyweight,1.0,Weight Plate,1.0,Lower Body,Unsorted*,Unsorted*
+Bodyweight Plate Assisted Hip Airplane,Intermediate,Glutes,,1.0,Weight Plate,1.0,Lower Body,Unsorted*,Unsorted*
 Macebell Battle Lunge,Intermediate,Quadriceps,Macebell,1.0,,0.0,Full Body,*Unsorted,*Unsorted
 Single Arm Kettlebell Tactical Half Snatch,Advanced,Glutes,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
 Heavy Sandbag Shoulder Ipsilateral Forward Lunge,Intermediate,Quadriceps,Heavy Sandbag,1.0,,0.0,Lower Body,Push,Unsorted*
@@ -2846,7 +2838,7 @@ Barbell Cuban Rotation,Intermediate,Shoulders,Barbell,1.0,,0.0,Upper Body,Pull,U
 Alternating Single Arm Landmine Tall Kneeling Shoulder Press,Intermediate,Shoulders,Landmine,1.0,,0.0,Upper Body,Push,Unsorted*
 Barbell Feet Elevated Glute Bridge,Intermediate,Glutes,Barbell,1.0,,0.0,Lower Body,Unsorted*,Bodybuilding
 Single Arm Kettlebell Tactical Snatch to Overhead Squat,Advanced,Quadriceps,Kettlebell,1.0,,0.0,Full Body,Unsorted*,Ballistics
-Bodyweight Push Up to Alternating Lateral Kick Through,Intermediate,Chest,Bodyweight,1.0,,0.0,Upper Body,Push,Animal Flow
+Bodyweight Push Up to Alternating Lateral Kick Through,Intermediate,Chest,,1.0,,0.0,Upper Body,Push,Animal Flow
 Double Dumbbell Single Leg Romanian Deadlift,Intermediate,Hamstrings,Dumbbell,2.0,,0.0,Lower Body,Pull,Bodybuilding
 Single Arm Dumbbell Contralateral Single Leg Romanian Deadlift,Intermediate,Hamstrings,Dumbbell,1.0,,0.0,Lower Body,Pull,Bodybuilding
 Dumbbell Crush Grip Single Leg Romanian Deadlift,Intermediate,Hamstrings,Dumbbell,1.0,,0.0,Lower Body,Pull,Bodybuilding
@@ -2883,7 +2875,7 @@ Single Arm Clubbell Order Contralateral Reverse Lunge,Novice,Quadriceps,Clubbell
 Macebell Order Reverse Lunge,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Overhead Reverse Lunge,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Suitcase Contralateral Reverse Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Reverse Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Reverse Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Bulgarian Bag Back Rack Reverse Lunge,Novice,Quadriceps,Bulgarian Bag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Sandbag Front Rack Reverse Lunge,Novice,Quadriceps,Sandbag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Plate Overhead Reverse Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
@@ -2940,9 +2932,9 @@ Barbell Seated Overhead Tricep Extension,Intermediate,Triceps,Barbell,1.0,Bench 
 Barbell Standing Overhead Tricep Extension,Intermediate,Triceps,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Barbell Tall Kneeling Overhead Tricep Extension,Intermediate,Triceps,Barbell,1.0,,0.0,Upper Body,Push,Bodybuilding
 Miniband Thigh Kneeling Side Plank Hip Abduction,Novice,Abductors,Miniband,1.0,,0.0,Lower Body,Other,Bodybuilding
-Bodyweight Crunch,Beginner,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Reverse Crunch,Novice,Abdominals,Bodyweight,1.0,,0.0,Midsection,Other,Unsorted*
-Bodyweight Dips,Intermediate,Triceps,Bodyweight,1.0,,0.0,Upper Body,Push,Calisthenics
+Bodyweight Crunch,Beginner,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Reverse Crunch,Novice,Abdominals,,1.0,,0.0,Midsection,Other,Unsorted*
+Bodyweight Dips,Intermediate,Triceps,,1.0,,0.0,Upper Body,Push,Calisthenics
 Single Arm Dumbbell Incline Bench Powell Raise,Novice,Shoulders,Dumbbell,1.0,Bench (Incline),1.0,Upper Body,Pull,Unsorted*
 Cable Rope Half Kneeling Rotation,Intermediate,Abdominals,Cable,1.0,,0.0,Midsection,Other,Unsorted*
 Cable Rope Split Squat Isometric Rotation,Advanced,Abdominals,Cable,1.0,,0.0,Full Body,Other,Unsorted*
@@ -2983,7 +2975,7 @@ Single Arm Clubbell Order Contralateral Lateral Lunge,Novice,Quadriceps,Clubbell
 Macebell Order Lateral Lunge,Novice,Quadriceps,Macebell,1.0,,0.0,Lower Body,Push,Bodybuilding
 Double Kettlebell Bottoms Up Overhead Lateral Lunge,Advanced,Quadriceps,Kettlebell,2.0,,0.0,Lower Body,Push,Bodybuilding
 Single Arm Kettlebell Suitcase Contralateral Lateral Lunge,Novice,Quadriceps,Kettlebell,1.0,,0.0,Lower Body,Push,Bodybuilding
-Bodyweight Lateral Lunge,Beginner,Quadriceps,Bodyweight,1.0,,0.0,Lower Body,Push,Bodybuilding
+Bodyweight Lateral Lunge,Beginner,Quadriceps,,1.0,,0.0,Lower Body,Push,Bodybuilding
 Bulgarian Bag Back Rack Lateral Lunge,Novice,Quadriceps,Bulgarian Bag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Sandbag Front Rack Lateral Lunge,Novice,Quadriceps,Sandbag,1.0,,0.0,Lower Body,Push,Bodybuilding
 Plate Overhead Lateral Lunge,Intermediate,Quadriceps,Weight Plate,1.0,,0.0,Lower Body,Push,Bodybuilding
