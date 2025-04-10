@@ -62,9 +62,11 @@ $$
 ## Constraints
 
 ### Soft Constraints
-- 
+- Porcentaje Mínimo de ejercicios de músculos solicitados (80%)
 
 ### Hard Constraints
+- Equipamiento no disponible
+- No se puede exceder el tiempo disponible de la rutina
 
 ## Codificación
 
@@ -75,8 +77,6 @@ $$
 - Advanced &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 min  
 - Expert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18 min  
 - Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20 min  
-- Grand Master &nbsp;22 min  
-- Legendary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 min
 
 ### Solución Codificada:
 | --- | Exercise_ID |
