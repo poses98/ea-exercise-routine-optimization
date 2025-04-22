@@ -13,7 +13,6 @@ pip install -r requirements.txt
 Ensure you have the correct Python environment activated before running the command.
 
 ## Fitness Function
-
 $$
 fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios} \cdot \frac{MinUsados}{MinTotales} \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados} \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios} \cdot (0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9)
 $$
@@ -37,10 +36,11 @@ $$
 ### Músculos ejercitados
 $$
 fitness \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados}
-$$  
+$$
+
 En caso de que no exceda 100 el fitness:
-- Se sumará 0.05 por cada músculo extra de body region diferente
-- Se sumará 0.1 por cada músculo extra del mismo body region
+- Se sumará 0.05 por cada músculo extra de body region diferente.
+- Se sumará 0.1 por cada músculo extra del mismo body region.
 <br>
 
 ### Dificultad
@@ -62,9 +62,11 @@ $$
 ## Constraints
 
 ### Soft Constraints
-- 
+- Porcentaje Mínimo de ejercicios de músculos solicitados (80%).
 
 ### Hard Constraints
+- Equipamiento no disponible.
+- No se puede exceder el tiempo disponible de la rutina.
 
 ## Codificación
 
@@ -75,8 +77,6 @@ $$
 - Advanced &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 min  
 - Expert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18 min  
 - Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20 min  
-- Grand Master &nbsp;22 min  
-- Legendary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 min
 
 ### Solución Codificada:
 | --- | Exercise_ID |
