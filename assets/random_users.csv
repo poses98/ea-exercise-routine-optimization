@@ -1,0 +1,21 @@
+userID,userLevel,equipment,requestMuscles,duration
+91538,beginner,Suspension Trainer;Cable;Kettlebell,Chest;Shoulders;Quadriceps;Back;Abdominals,5
+36248,novice,Parallette Bars;Stability Ball;Gymnastic Rings,Shoulders;Quadriceps,5
+94389,novice,Pull Up Bar;Tire,Abdominals;Shoulders;Quadriceps;Chest;Glutes,7
+89411,beginner,Resistance Band;Weight Plate;Tire;Dumbbell,Abdominals;Shoulders;Quadriceps;Back,7
+20232,beginner,Miniband,Triceps;Chest;Shoulders;Quadriceps;Biceps,2
+92179,beginner,Bodyweight;Pull Up Bar;Tire;Macebell;EZ Bar,Abdominals;Quadriceps;Adductors;Abductors;Shoulders;Back,6
+77593,novice,Gym,Quadriceps;Abdominals,4
+44931,novice,Battle Ropes,Quadriceps;Biceps,2
+65222,beginner,EZ Bar;Kettlebell;Landmine;Gymnastic Rings;Suspension Trainer,Chest;Forearms;Quadriceps;Abdominals,3
+71525,beginner,Battle Ropes;Suspension Trainer;Barbell,Biceps;Chest;Quadriceps;Shoulders;Back,5
+47914,beginner,Kettlebell;Gymnastic Rings;EZ Bar,Abdominals;Shoulders;Triceps,6
+56667,intermediate,Barbell;EZ Bar;Sliders,Chest;Abdominals;Quadriceps;Shoulders;Abductors,6
+88914,novice,Dumbbell;Miniband,Abdominals;Quadriceps;Shoulders;Glutes,6
+65732,advanced,Cable;Miniband;Macebell,Calves;Glutes;Abdominals;Quadriceps,6
+63408,advanced,Tire;Pull Up Bar,Chest;Abdominals;Quadriceps;Shoulders;Hamstrings,1
+17310,novice,,Trapezius;Quadriceps;Shoulders;Glutes,1
+42700,novice,Parallette Bars;Tire,Shoulders;Quadriceps;Abdominals,4
+65802,novice,Battle Ropes;Dumbbell;Gymnastic Rings;Tire;Landmine,Triceps;Quadriceps;Abdominals;Back;Glutes,4
+66677,advanced,Heavy Sandbag;Cable;Dumbbell;Barbell,Calves;Quadriceps;Back,5
+45049,novice,Resistance Band;Cable;EZ Bar;Parallette Bars;Pull Up Bar,Shoulders;Quadriceps,10
