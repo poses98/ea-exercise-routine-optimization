@@ -1,11 +1,11 @@
 userID,userLevel,equipment,requestMuscles,duration
-70473,advanced,Gym,Quadriceps;Abdominals;Glutes,7
-94310,master,Heavy Sandbag;Cable;Kettlebell;Dumbbell,Abdominals;Quadriceps;Glutes;Back;Triceps,9
-68972,advanced,Kettlebell;Bodyweight,Triceps;Biceps;Shoulders;Back;Abdominals,5
-14298,master,Clubbell;Miniband,Back;Quadriceps;Abdominals;Calves;Abductors,4
-78532,expert,Gym,Shins;Shoulders;Quadriceps;Back;Glutes;Abdominals,9
-57170,expert,Sliders;Kettlebell,Shoulders;Quadriceps;Glutes;Biceps,4
-32607,expert,Sliders;Landmine;Trap Bar,Shoulders;Glutes;Quadriceps,10
-50191,expert,Battle Ropes;Miniband;Dumbbell,Glutes;Back;Biceps;Quadriceps;Shoulders;Abdominals,4
-94106,master,Kettlebell;Tire,Triceps;Chest;Shoulders;Quadriceps;Abdominals,2
-51491,advanced,Barbell;Suspension Trainer;Sandbag;Kettlebell;Sliders,Shoulders;Quadriceps;Abdominals;Biceps,6
+42264,intermediate,Gym,Abdominals;Hamstrings,5
+40457,beginner,Heavy Sandbag;Dumbbell;Barbell;Bodyweight;Macebell,Quadriceps;Chest;Shoulders;Abdominals,12
+36303,master,Kettlebell;Bodyweight;Clubbell,Abdominals;Quadriceps;Chest;Triceps;Glutes,3
+49051,advanced,Sliders;Kettlebell,Quadriceps;Chest;Shoulders,9
+70254,expert,Gym,Quadriceps;Chest;Shoulders;Abdominals,8
+65385,novice,Barbell;Sliders;Dumbbell;Miniband,Quadriceps;Shoulders;Back,10
+14948,novice,Gym,Glutes;Quadriceps;Back;Forearms;Triceps;Chest,6
+59457,expert,Gym,Quadriceps;Chest;Shoulders,4
+97899,intermediate,Gym,Quadriceps;Chest;Shoulders;Abdominals;Back;Biceps,5
+51653,master,Sliders;Battle Ropes,Quadriceps;Shoulders;Abdominals;Hamstrings,8

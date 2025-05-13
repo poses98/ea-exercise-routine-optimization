@@ -73,7 +73,7 @@ muscle_weights = list(muscle_frequencies.values())
 
 users_data = []
 
-for _ in range(10):
+for _ in range(50):
     userLevel = random.choice(list(user_levels.keys()))
     
     # 20% chance de ser 'Gym', si no selecciona ponderado
