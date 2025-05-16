@@ -1,11 +1,8 @@
 userID,userLevel,equipment,requestMuscles,duration
 42264,intermediate,Gym,Abdominals;Hamstrings,5
-40457,beginner,Heavy Sandbag;Dumbbell;Barbell;Bodyweight;Macebell,Quadriceps;Chest;Shoulders;Abdominals,12
-36303,master,Kettlebell;Bodyweight;Clubbell,Abdominals;Quadriceps;Chest;Triceps;Glutes,3
-49051,advanced,Sliders;Kettlebell,Quadriceps;Chest;Shoulders,9
+40457,beginner,Heavy Sandbag;Dumbbell;Barbell;Bodyweight;Macebell,Quadriceps;Chest;Shoulders;Abdominals,6
 70254,expert,Gym,Quadriceps;Chest;Shoulders;Abdominals,8
-65385,novice,Barbell;Sliders;Dumbbell;Miniband,Quadriceps;Shoulders;Back,10
+65385,novice,Barbell;Sliders;Dumbbell;Miniband,Quadriceps;Shoulders;Back,5
 14948,novice,Gym,Glutes;Quadriceps;Back;Forearms;Triceps;Chest,6
 59457,expert,Gym,Quadriceps;Chest;Shoulders,4
 97899,intermediate,Gym,Quadriceps;Chest;Shoulders;Abdominals;Back;Biceps,5
-51653,master,Sliders;Battle Ropes,Quadriceps;Shoulders;Abdominals;Hamstrings,8
