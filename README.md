@@ -14,24 +14,19 @@ Ensure you have the correct Python environment activated before running the comm
 
 ## Fitness Function
 $$
-fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios} \cdot \frac{MinUsados}{MinTotales} \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados} \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios} \cdot (0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9)
+fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios} \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados} \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios} \cdot (0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9)
 $$
 
 ## Penalizaciones de Fitness
 
-### Ejercicios iguales (implementado con un *for* iterado)  
-- muy seguidos (0 - 2 ejs distancia) [y = 0.95]  
-- seguidos (3 - 8 ejs distancia) [y = 0.99]  
-- separados (9+ ejs distancia) [y = 1]
+### Ejercicios iguales y/o repetidos
+- muy seguidos (0 - 2 ejs distancia) [y = 0.2]  
+- seguidos (3 - 8 ejs distancia) [y = 0.4]  
+- separados (9+ ejs distancia) [y = 0.6]
 
 $$
 fitness \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios}
 $$ 
-
-### Minutos ocupados
-$$
-fitness \cdot \frac{MinUsados}{MinTotales}
-$$
 
 ### Músculos ejercitados
 $$
@@ -49,10 +44,10 @@ fitness \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios}
 $$  
 
 - Si el ejercicio es de dificultad superior al usuario:  
-$x = 1 - 0.3 \cdot diferencia$  
+$x = 1 - 0.2 \cdot diferencia$  
 
 - Si el ejercicio es de dificultad inferior al usuario:  
-$x = 1 - 0.2 \cdot diferencia$
+$x = 1 - 0.1 \cdot diferencia$
 
 ### Uso de Equipamiento
 $$
@@ -62,21 +57,15 @@ $$
 ## Constraints
 
 ### Soft Constraints
-- Porcentaje Mínimo de ejercicios de músculos solicitados (80%).
+- Porcentaje Mínimo de ejercicios de músculos solicitados (75%).
 
 ### Hard Constraints
-- Equipamiento no disponible.
+- No pueden realizarse ejercicios que requieran equipamiento no disponible.
 - No se puede exceder el tiempo disponible de la rutina.
 
-## Codificación
 
-### Duración de Ejercicios (Proporcional al nivel de dificultad):
-- Beginner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 min  
-- Novice &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12 min  
-- Intermediate &nbsp; 14 min  
-- Advanced &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 min  
-- Expert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18 min  
-- Master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20 min  
+
+## Codificación
 
 ### Solución Codificada:
 | --- | Exercise_ID |
