@@ -14,7 +14,7 @@ Ensure you have the correct Python environment activated before running the comm
 
 ## Fitness Function
 $$
-fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios} \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados} \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios} \cdot (0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9)
+fitness = 100 \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios} \cdot (Cobertura \cdot Equilibrio) \cdot \frac{\sum_{i=1}^{NumeroEjercicios} x}{NúmeroEjercicios} \cdot (0.1 \cdot \frac{EquipamientoUsado}{EquipamientoDisponible} + 0.9)
 $$
 
 ## Penalizaciones de Fitness
@@ -29,10 +29,21 @@ fitness \cdot \frac{\sum_{i=1}^{NumeroEjercicios} y}{NúmeroEjercicios}
 $$ 
 
 ### Músculos ejercitados
+#### - Cobertura:
+Se toma en cuenta la cantidad de ejercicios que entrenan músculos solicitados en relación a la cantidad total de ejercicios en la rutina:
+
 $$
-fitness \cdot \frac{MúsculosEjercitados}{MúsculosSolicitados}
+Cobertura = \frac{MúsculosEjercitados}{MúsculosSolicitados}
 $$
 
+#### - Equilibrio:
+Se valora que haya un reparto equitativo entre todos los ejercicios que entrenan músculos solicitados:
+
+$$
+Equilibrio = 1 - \frac{{\sum_{m=1}^{MúsculosSolicitados}} |{EjerciciosMúsculoSolicitado}[m] - CantidadIdeal|} {TotalEjerciciosSolicitados}
+$$
+
+### Ejercicios Extra
 En caso de que no exceda 100 el fitness:
 - Se sumará 0.05 por cada músculo extra de body region diferente.
 - Se sumará 0.1 por cada músculo extra del mismo body region.
